@@ -44,7 +44,7 @@ All entities are connected using **primary and foreign keys**, ensuring data int
 
 ---
 
-## 🧱 Normalization
+##  Normalization
 
 The database follows strict normalization rules:
 
@@ -53,7 +53,7 @@ The database follows strict normalization rules:
 - **3NF** – No transitive dependencies  
 - **4NF** – No multivalued dependencies  
 
-✔️ Result: clean, scalable, and redundancy-free structure  
+ Result: clean, scalable, and redundancy-free structure  
 
 ---
 
