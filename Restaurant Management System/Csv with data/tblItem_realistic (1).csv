@@ -1,0 +1,1001 @@
+ItemID,ItemName,Price,ItemTypeID
+1,Pho Noodles Special 1,32.48,1
+2,Pho Noodles Special 2,10.81,4
+3,Chicken Tikka Masala Special 3,29.29,3
+4,Margherita Pizza Special 4,47.76,2
+5,Caesar Salad Special 5,5.95,4
+6,Chicken Tikka Masala Special 6,22.06,3
+7,Beef Burrito Special 7,40.12,1
+8,Cheeseburger Special 8,20.0,2
+9,Falafel Wrap Special 9,20.87,2
+10,Margherita Pizza Special 10,39.47,3
+11,Caesar Salad Special 11,7.86,3
+12,Beef Burrito Special 12,7.21,3
+13,Spaghetti Carbonara Special 13,14.47,1
+14,Sushi Roll Special 14,29.1,3
+15,Pad Thai Special 15,49.33,4
+16,Beef Burrito Special 16,42.72,4
+17,Cheeseburger Special 17,22.8,3
+18,Cheeseburger Special 18,37.3,5
+19,Cheeseburger Special 19,18.06,5
+20,Margherita Pizza Special 20,12.26,2
+21,Caesar Salad Special 21,21.82,2
+22,Caesar Salad Special 22,23.6,5
+23,Falafel Wrap Special 23,29.88,5
+24,Caesar Salad Special 24,16.19,4
+25,Chicken Tikka Masala Special 25,5.61,3
+26,Falafel Wrap Special 26,43.05,1
+27,Cheeseburger Special 27,38.98,1
+28,Pad Thai Special 28,28.69,2
+29,Falafel Wrap Special 29,27.57,2
+30,Chicken Tikka Masala Special 30,40.61,3
+31,Beef Burrito Special 31,6.9,4
+32,Caesar Salad Special 32,17.74,5
+33,Chicken Tikka Masala Special 33,6.09,4
+34,Cheeseburger Special 34,33.42,1
+35,Pho Noodles Special 35,35.96,4
+36,Beef Burrito Special 36,6.52,4
+37,Caesar Salad Special 37,38.75,2
+38,Caesar Salad Special 38,41.58,3
+39,Margherita Pizza Special 39,22.0,5
+40,Caesar Salad Special 40,23.03,5
+41,Falafel Wrap Special 41,41.82,4
+42,Sushi Roll Special 42,44.45,1
+43,Pho Noodles Special 43,43.79,1
+44,Chicken Tikka Masala Special 44,8.44,1
+45,Cheeseburger Special 45,27.7,3
+46,Cheeseburger Special 46,36.66,3
+47,Margherita Pizza Special 47,37.97,5
+48,Chicken Tikka Masala Special 48,5.91,3
+49,Pho Noodles Special 49,38.42,4
+50,Sushi Roll Special 50,29.38,3
+51,Pad Thai Special 51,46.35,1
+52,Pho Noodles Special 52,9.3,4
+53,Pad Thai Special 53,31.47,2
+54,Sushi Roll Special 54,22.6,1
+55,Pad Thai Special 55,42.42,3
+56,Cheeseburger Special 56,43.67,4
+57,Sushi Roll Special 57,40.31,2
+58,Cheeseburger Special 58,24.13,2
+59,Cheeseburger Special 59,38.46,5
+60,Sushi Roll Special 60,18.6,3
+61,Spaghetti Carbonara Special 61,25.65,5
+62,Pho Noodles Special 62,9.49,2
+63,Spaghetti Carbonara Special 63,48.62,5
+64,Cheeseburger Special 64,30.93,1
+65,Margherita Pizza Special 65,21.95,4
+66,Chicken Tikka Masala Special 66,24.33,2
+67,Falafel Wrap Special 67,15.0,3
+68,Caesar Salad Special 68,23.28,5
+69,Beef Burrito Special 69,17.54,5
+70,Falafel Wrap Special 70,17.8,3
+71,Pho Noodles Special 71,36.63,5
+72,Pad Thai Special 72,27.8,5
+73,Chicken Tikka Masala Special 73,22.21,3
+74,Falafel Wrap Special 74,49.69,1
+75,Pho Noodles Special 75,37.74,2
+76,Falafel Wrap Special 76,47.82,1
+77,Caesar Salad Special 77,39.32,3
+78,Spaghetti Carbonara Special 78,37.16,3
+79,Cheeseburger Special 79,25.35,4
+80,Chicken Tikka Masala Special 80,31.0,2
+81,Cheeseburger Special 81,6.12,2
+82,Spaghetti Carbonara Special 82,39.7,3
+83,Sushi Roll Special 83,25.12,4
+84,Pho Noodles Special 84,26.46,2
+85,Sushi Roll Special 85,9.9,4
+86,Spaghetti Carbonara Special 86,18.98,3
+87,Margherita Pizza Special 87,11.47,3
+88,Spaghetti Carbonara Special 88,33.35,2
+89,Caesar Salad Special 89,8.76,3
+90,Margherita Pizza Special 90,30.24,3
+91,Pad Thai Special 91,14.35,5
+92,Falafel Wrap Special 92,47.39,1
+93,Margherita Pizza Special 93,31.7,2
+94,Caesar Salad Special 94,8.77,1
+95,Falafel Wrap Special 95,23.14,4
+96,Sushi Roll Special 96,42.71,4
+97,Pad Thai Special 97,28.55,4
+98,Spaghetti Carbonara Special 98,42.78,4
+99,Margherita Pizza Special 99,39.23,1
+100,Falafel Wrap Special 100,7.65,5
+101,Pho Noodles Special 101,27.2,1
+102,Spaghetti Carbonara Special 102,23.53,5
+103,Beef Burrito Special 103,38.32,3
+104,Pho Noodles Special 104,42.54,1
+105,Chicken Tikka Masala Special 105,6.64,5
+106,Pho Noodles Special 106,36.0,4
+107,Sushi Roll Special 107,31.94,1
+108,Chicken Tikka Masala Special 108,44.21,5
+109,Beef Burrito Special 109,17.07,3
+110,Chicken Tikka Masala Special 110,14.42,5
+111,Caesar Salad Special 111,30.31,4
+112,Caesar Salad Special 112,26.99,3
+113,Spaghetti Carbonara Special 113,27.49,5
+114,Sushi Roll Special 114,48.18,3
+115,Falafel Wrap Special 115,15.61,1
+116,Beef Burrito Special 116,25.76,1
+117,Margherita Pizza Special 117,26.73,5
+118,Margherita Pizza Special 118,29.97,1
+119,Spaghetti Carbonara Special 119,38.29,5
+120,Chicken Tikka Masala Special 120,37.99,1
+121,Falafel Wrap Special 121,46.46,5
+122,Margherita Pizza Special 122,24.16,2
+123,Pho Noodles Special 123,8.49,5
+124,Margherita Pizza Special 124,10.73,1
+125,Beef Burrito Special 125,5.61,5
+126,Beef Burrito Special 126,28.4,4
+127,Margherita Pizza Special 127,10.47,5
+128,Sushi Roll Special 128,13.88,2
+129,Spaghetti Carbonara Special 129,44.14,1
+130,Pho Noodles Special 130,10.11,4
+131,Sushi Roll Special 131,44.85,3
+132,Cheeseburger Special 132,27.28,4
+133,Spaghetti Carbonara Special 133,33.18,4
+134,Margherita Pizza Special 134,28.61,2
+135,Caesar Salad Special 135,11.29,3
+136,Cheeseburger Special 136,44.34,1
+137,Sushi Roll Special 137,23.82,2
+138,Chicken Tikka Masala Special 138,5.42,5
+139,Beef Burrito Special 139,10.29,3
+140,Pho Noodles Special 140,49.81,4
+141,Caesar Salad Special 141,37.4,5
+142,Falafel Wrap Special 142,44.61,4
+143,Sushi Roll Special 143,17.2,1
+144,Falafel Wrap Special 144,19.51,4
+145,Margherita Pizza Special 145,45.03,5
+146,Cheeseburger Special 146,30.37,3
+147,Chicken Tikka Masala Special 147,12.47,1
+148,Spaghetti Carbonara Special 148,18.06,5
+149,Chicken Tikka Masala Special 149,35.83,4
+150,Chicken Tikka Masala Special 150,41.13,1
+151,Beef Burrito Special 151,47.84,1
+152,Chicken Tikka Masala Special 152,21.71,2
+153,Pho Noodles Special 153,32.2,3
+154,Pho Noodles Special 154,26.24,4
+155,Beef Burrito Special 155,14.48,2
+156,Sushi Roll Special 156,19.86,3
+157,Sushi Roll Special 157,38.6,2
+158,Caesar Salad Special 158,49.83,5
+159,Caesar Salad Special 159,46.75,3
+160,Margherita Pizza Special 160,12.39,5
+161,Falafel Wrap Special 161,37.18,4
+162,Sushi Roll Special 162,26.32,2
+163,Pad Thai Special 163,19.3,5
+164,Caesar Salad Special 164,13.07,3
+165,Cheeseburger Special 165,26.17,5
+166,Cheeseburger Special 166,49.7,2
+167,Margherita Pizza Special 167,5.25,2
+168,Sushi Roll Special 168,36.57,2
+169,Cheeseburger Special 169,13.97,2
+170,Cheeseburger Special 170,9.22,3
+171,Chicken Tikka Masala Special 171,25.64,2
+172,Spaghetti Carbonara Special 172,9.26,1
+173,Caesar Salad Special 173,33.12,1
+174,Sushi Roll Special 174,31.75,5
+175,Margherita Pizza Special 175,8.0,5
+176,Falafel Wrap Special 176,33.64,1
+177,Cheeseburger Special 177,44.75,2
+178,Spaghetti Carbonara Special 178,20.52,5
+179,Falafel Wrap Special 179,5.64,3
+180,Caesar Salad Special 180,13.67,1
+181,Spaghetti Carbonara Special 181,17.79,3
+182,Falafel Wrap Special 182,46.02,3
+183,Sushi Roll Special 183,24.18,2
+184,Spaghetti Carbonara Special 184,37.82,2
+185,Pad Thai Special 185,21.53,2
+186,Chicken Tikka Masala Special 186,39.51,3
+187,Sushi Roll Special 187,47.04,2
+188,Sushi Roll Special 188,30.25,4
+189,Caesar Salad Special 189,33.87,3
+190,Spaghetti Carbonara Special 190,14.12,2
+191,Chicken Tikka Masala Special 191,31.67,2
+192,Pad Thai Special 192,9.63,3
+193,Pho Noodles Special 193,14.74,1
+194,Pho Noodles Special 194,13.02,2
+195,Beef Burrito Special 195,30.36,4
+196,Pad Thai Special 196,10.7,1
+197,Pho Noodles Special 197,28.5,4
+198,Cheeseburger Special 198,34.02,1
+199,Pho Noodles Special 199,22.23,4
+200,Margherita Pizza Special 200,30.9,2
+201,Chicken Tikka Masala Special 201,43.4,4
+202,Chicken Tikka Masala Special 202,32.21,1
+203,Pad Thai Special 203,48.5,4
+204,Falafel Wrap Special 204,38.18,4
+205,Pad Thai Special 205,32.71,4
+206,Sushi Roll Special 206,45.92,2
+207,Chicken Tikka Masala Special 207,14.42,2
+208,Caesar Salad Special 208,5.12,4
+209,Caesar Salad Special 209,15.43,5
+210,Cheeseburger Special 210,14.74,1
+211,Margherita Pizza Special 211,46.83,1
+212,Sushi Roll Special 212,32.67,2
+213,Cheeseburger Special 213,11.45,5
+214,Sushi Roll Special 214,26.4,5
+215,Falafel Wrap Special 215,5.01,5
+216,Chicken Tikka Masala Special 216,8.5,1
+217,Falafel Wrap Special 217,48.64,2
+218,Pho Noodles Special 218,11.16,2
+219,Pho Noodles Special 219,41.33,1
+220,Caesar Salad Special 220,24.14,4
+221,Chicken Tikka Masala Special 221,26.23,5
+222,Pad Thai Special 222,18.62,3
+223,Falafel Wrap Special 223,39.2,3
+224,Falafel Wrap Special 224,15.83,4
+225,Pad Thai Special 225,22.7,2
+226,Falafel Wrap Special 226,39.83,2
+227,Falafel Wrap Special 227,36.78,1
+228,Cheeseburger Special 228,20.97,5
+229,Margherita Pizza Special 229,42.74,3
+230,Spaghetti Carbonara Special 230,19.26,4
+231,Spaghetti Carbonara Special 231,8.52,3
+232,Chicken Tikka Masala Special 232,32.24,5
+233,Beef Burrito Special 233,14.63,1
+234,Margherita Pizza Special 234,12.48,4
+235,Margherita Pizza Special 235,33.52,1
+236,Sushi Roll Special 236,17.5,1
+237,Sushi Roll Special 237,11.43,4
+238,Pad Thai Special 238,24.68,4
+239,Beef Burrito Special 239,24.87,4
+240,Beef Burrito Special 240,36.28,1
+241,Margherita Pizza Special 241,16.27,3
+242,Chicken Tikka Masala Special 242,10.41,3
+243,Cheeseburger Special 243,45.49,3
+244,Cheeseburger Special 244,34.34,1
+245,Margherita Pizza Special 245,13.01,4
+246,Spaghetti Carbonara Special 246,43.98,3
+247,Falafel Wrap Special 247,43.49,2
+248,Caesar Salad Special 248,39.68,1
+249,Margherita Pizza Special 249,20.57,4
+250,Spaghetti Carbonara Special 250,24.08,4
+251,Margherita Pizza Special 251,32.76,1
+252,Sushi Roll Special 252,44.43,3
+253,Pad Thai Special 253,46.43,3
+254,Falafel Wrap Special 254,13.59,1
+255,Spaghetti Carbonara Special 255,21.84,2
+256,Chicken Tikka Masala Special 256,46.99,2
+257,Pad Thai Special 257,49.79,2
+258,Margherita Pizza Special 258,13.81,5
+259,Sushi Roll Special 259,21.24,1
+260,Cheeseburger Special 260,13.77,2
+261,Chicken Tikka Masala Special 261,31.38,5
+262,Falafel Wrap Special 262,19.78,2
+263,Pho Noodles Special 263,46.0,2
+264,Beef Burrito Special 264,46.21,4
+265,Beef Burrito Special 265,27.63,1
+266,Caesar Salad Special 266,5.58,1
+267,Sushi Roll Special 267,17.29,5
+268,Sushi Roll Special 268,34.12,2
+269,Caesar Salad Special 269,33.88,3
+270,Beef Burrito Special 270,22.92,3
+271,Beef Burrito Special 271,49.81,5
+272,Chicken Tikka Masala Special 272,36.69,4
+273,Cheeseburger Special 273,17.34,2
+274,Pho Noodles Special 274,7.58,4
+275,Beef Burrito Special 275,30.75,2
+276,Margherita Pizza Special 276,6.37,2
+277,Falafel Wrap Special 277,37.31,5
+278,Spaghetti Carbonara Special 278,26.19,2
+279,Margherita Pizza Special 279,32.34,2
+280,Beef Burrito Special 280,25.45,3
+281,Spaghetti Carbonara Special 281,12.82,1
+282,Chicken Tikka Masala Special 282,38.75,2
+283,Spaghetti Carbonara Special 283,34.14,1
+284,Pad Thai Special 284,29.55,4
+285,Cheeseburger Special 285,9.67,2
+286,Falafel Wrap Special 286,21.63,3
+287,Pho Noodles Special 287,32.58,4
+288,Margherita Pizza Special 288,37.1,3
+289,Pad Thai Special 289,36.75,3
+290,Chicken Tikka Masala Special 290,12.96,5
+291,Pho Noodles Special 291,43.29,3
+292,Sushi Roll Special 292,8.73,1
+293,Beef Burrito Special 293,42.53,1
+294,Beef Burrito Special 294,10.37,3
+295,Falafel Wrap Special 295,24.95,1
+296,Sushi Roll Special 296,36.98,4
+297,Pho Noodles Special 297,19.14,1
+298,Pad Thai Special 298,43.61,2
+299,Pad Thai Special 299,17.49,4
+300,Falafel Wrap Special 300,43.37,1
+301,Pho Noodles Special 301,34.48,5
+302,Chicken Tikka Masala Special 302,38.19,4
+303,Margherita Pizza Special 303,19.97,5
+304,Sushi Roll Special 304,35.24,5
+305,Cheeseburger Special 305,45.48,2
+306,Cheeseburger Special 306,45.4,2
+307,Margherita Pizza Special 307,12.61,1
+308,Falafel Wrap Special 308,49.38,1
+309,Margherita Pizza Special 309,37.5,3
+310,Chicken Tikka Masala Special 310,21.48,2
+311,Pho Noodles Special 311,5.64,1
+312,Caesar Salad Special 312,34.9,4
+313,Margherita Pizza Special 313,23.74,1
+314,Margherita Pizza Special 314,35.05,1
+315,Sushi Roll Special 315,7.77,4
+316,Beef Burrito Special 316,13.68,4
+317,Spaghetti Carbonara Special 317,39.26,4
+318,Falafel Wrap Special 318,11.64,5
+319,Pho Noodles Special 319,17.0,4
+320,Pad Thai Special 320,12.77,2
+321,Spaghetti Carbonara Special 321,7.0,5
+322,Beef Burrito Special 322,32.38,1
+323,Caesar Salad Special 323,35.99,3
+324,Caesar Salad Special 324,23.42,4
+325,Cheeseburger Special 325,33.59,4
+326,Pad Thai Special 326,42.9,3
+327,Margherita Pizza Special 327,47.35,2
+328,Chicken Tikka Masala Special 328,19.0,3
+329,Caesar Salad Special 329,30.23,5
+330,Margherita Pizza Special 330,10.3,3
+331,Pho Noodles Special 331,25.98,5
+332,Falafel Wrap Special 332,42.62,1
+333,Beef Burrito Special 333,8.87,4
+334,Pho Noodles Special 334,46.86,4
+335,Falafel Wrap Special 335,8.97,5
+336,Pho Noodles Special 336,46.31,2
+337,Caesar Salad Special 337,13.21,2
+338,Cheeseburger Special 338,8.89,2
+339,Falafel Wrap Special 339,19.29,5
+340,Spaghetti Carbonara Special 340,33.2,2
+341,Pho Noodles Special 341,5.9,2
+342,Margherita Pizza Special 342,12.62,2
+343,Falafel Wrap Special 343,5.47,1
+344,Sushi Roll Special 344,33.71,1
+345,Caesar Salad Special 345,25.72,4
+346,Spaghetti Carbonara Special 346,44.47,3
+347,Spaghetti Carbonara Special 347,47.45,5
+348,Pad Thai Special 348,18.85,1
+349,Cheeseburger Special 349,35.64,2
+350,Caesar Salad Special 350,47.42,2
+351,Beef Burrito Special 351,43.91,3
+352,Pad Thai Special 352,38.63,2
+353,Spaghetti Carbonara Special 353,38.21,3
+354,Chicken Tikka Masala Special 354,18.97,3
+355,Beef Burrito Special 355,22.07,4
+356,Pho Noodles Special 356,17.92,5
+357,Pad Thai Special 357,17.55,5
+358,Spaghetti Carbonara Special 358,30.43,5
+359,Beef Burrito Special 359,23.63,5
+360,Sushi Roll Special 360,42.59,3
+361,Margherita Pizza Special 361,17.28,2
+362,Falafel Wrap Special 362,13.97,3
+363,Falafel Wrap Special 363,49.07,4
+364,Spaghetti Carbonara Special 364,16.67,3
+365,Pad Thai Special 365,24.78,2
+366,Margherita Pizza Special 366,9.16,5
+367,Cheeseburger Special 367,20.98,1
+368,Falafel Wrap Special 368,21.36,4
+369,Falafel Wrap Special 369,39.76,1
+370,Margherita Pizza Special 370,28.54,2
+371,Pho Noodles Special 371,42.33,2
+372,Sushi Roll Special 372,35.92,1
+373,Chicken Tikka Masala Special 373,12.67,2
+374,Caesar Salad Special 374,47.73,1
+375,Spaghetti Carbonara Special 375,31.34,2
+376,Margherita Pizza Special 376,12.01,2
+377,Spaghetti Carbonara Special 377,30.59,4
+378,Sushi Roll Special 378,49.72,3
+379,Pho Noodles Special 379,24.52,1
+380,Beef Burrito Special 380,34.07,5
+381,Pad Thai Special 381,35.69,4
+382,Cheeseburger Special 382,17.99,4
+383,Sushi Roll Special 383,20.4,3
+384,Caesar Salad Special 384,48.58,2
+385,Beef Burrito Special 385,29.82,5
+386,Spaghetti Carbonara Special 386,38.44,4
+387,Spaghetti Carbonara Special 387,17.1,4
+388,Spaghetti Carbonara Special 388,28.1,2
+389,Beef Burrito Special 389,14.48,4
+390,Pho Noodles Special 390,14.82,5
+391,Falafel Wrap Special 391,16.74,3
+392,Cheeseburger Special 392,46.49,5
+393,Spaghetti Carbonara Special 393,28.27,4
+394,Pho Noodles Special 394,33.4,1
+395,Sushi Roll Special 395,26.38,3
+396,Spaghetti Carbonara Special 396,26.03,5
+397,Cheeseburger Special 397,19.53,3
+398,Cheeseburger Special 398,30.37,3
+399,Chicken Tikka Masala Special 399,34.62,2
+400,Cheeseburger Special 400,45.56,3
+401,Cheeseburger Special 401,19.51,3
+402,Pho Noodles Special 402,9.71,4
+403,Chicken Tikka Masala Special 403,21.15,5
+404,Margherita Pizza Special 404,45.55,4
+405,Sushi Roll Special 405,12.14,1
+406,Margherita Pizza Special 406,26.4,3
+407,Falafel Wrap Special 407,20.15,5
+408,Pad Thai Special 408,45.63,3
+409,Pad Thai Special 409,13.42,1
+410,Beef Burrito Special 410,21.11,3
+411,Pad Thai Special 411,12.32,4
+412,Cheeseburger Special 412,29.61,1
+413,Spaghetti Carbonara Special 413,38.84,5
+414,Beef Burrito Special 414,24.76,2
+415,Beef Burrito Special 415,32.75,1
+416,Margherita Pizza Special 416,31.71,2
+417,Falafel Wrap Special 417,36.25,4
+418,Spaghetti Carbonara Special 418,37.89,1
+419,Beef Burrito Special 419,26.31,1
+420,Cheeseburger Special 420,15.96,5
+421,Pho Noodles Special 421,37.55,3
+422,Falafel Wrap Special 422,32.04,2
+423,Spaghetti Carbonara Special 423,26.72,3
+424,Spaghetti Carbonara Special 424,23.05,3
+425,Beef Burrito Special 425,6.81,4
+426,Spaghetti Carbonara Special 426,46.8,4
+427,Margherita Pizza Special 427,15.54,5
+428,Spaghetti Carbonara Special 428,47.06,1
+429,Chicken Tikka Masala Special 429,46.71,5
+430,Sushi Roll Special 430,9.85,2
+431,Chicken Tikka Masala Special 431,24.17,4
+432,Caesar Salad Special 432,17.12,5
+433,Spaghetti Carbonara Special 433,30.99,2
+434,Pad Thai Special 434,31.69,2
+435,Pad Thai Special 435,12.38,2
+436,Falafel Wrap Special 436,12.49,1
+437,Beef Burrito Special 437,18.53,2
+438,Caesar Salad Special 438,31.86,3
+439,Chicken Tikka Masala Special 439,36.39,5
+440,Falafel Wrap Special 440,28.58,5
+441,Cheeseburger Special 441,47.82,2
+442,Sushi Roll Special 442,30.56,5
+443,Margherita Pizza Special 443,11.28,5
+444,Margherita Pizza Special 444,34.85,5
+445,Margherita Pizza Special 445,40.49,1
+446,Caesar Salad Special 446,7.42,5
+447,Pho Noodles Special 447,9.07,3
+448,Beef Burrito Special 448,40.68,5
+449,Sushi Roll Special 449,11.37,2
+450,Pad Thai Special 450,20.57,5
+451,Beef Burrito Special 451,22.82,2
+452,Sushi Roll Special 452,25.73,3
+453,Caesar Salad Special 453,34.64,2
+454,Pad Thai Special 454,14.02,1
+455,Pho Noodles Special 455,12.74,2
+456,Caesar Salad Special 456,18.84,5
+457,Beef Burrito Special 457,13.31,2
+458,Pho Noodles Special 458,43.6,2
+459,Caesar Salad Special 459,24.64,5
+460,Pad Thai Special 460,37.59,5
+461,Pho Noodles Special 461,11.94,4
+462,Pho Noodles Special 462,29.99,2
+463,Margherita Pizza Special 463,39.9,3
+464,Spaghetti Carbonara Special 464,5.22,1
+465,Pad Thai Special 465,12.17,4
+466,Cheeseburger Special 466,9.5,3
+467,Falafel Wrap Special 467,29.74,4
+468,Sushi Roll Special 468,22.73,5
+469,Caesar Salad Special 469,14.56,4
+470,Margherita Pizza Special 470,26.25,4
+471,Beef Burrito Special 471,21.93,4
+472,Chicken Tikka Masala Special 472,25.86,3
+473,Pho Noodles Special 473,15.92,2
+474,Beef Burrito Special 474,46.26,3
+475,Caesar Salad Special 475,22.44,1
+476,Pho Noodles Special 476,19.33,1
+477,Beef Burrito Special 477,47.09,3
+478,Margherita Pizza Special 478,22.99,5
+479,Pad Thai Special 479,19.72,3
+480,Chicken Tikka Masala Special 480,17.74,2
+481,Spaghetti Carbonara Special 481,35.36,5
+482,Beef Burrito Special 482,44.27,5
+483,Sushi Roll Special 483,31.86,1
+484,Sushi Roll Special 484,29.04,1
+485,Margherita Pizza Special 485,20.61,4
+486,Spaghetti Carbonara Special 486,35.14,2
+487,Sushi Roll Special 487,48.66,2
+488,Spaghetti Carbonara Special 488,6.21,4
+489,Caesar Salad Special 489,44.85,2
+490,Caesar Salad Special 490,13.02,2
+491,Falafel Wrap Special 491,15.58,4
+492,Cheeseburger Special 492,21.3,2
+493,Caesar Salad Special 493,27.57,4
+494,Margherita Pizza Special 494,5.07,4
+495,Spaghetti Carbonara Special 495,31.96,5
+496,Caesar Salad Special 496,22.92,2
+497,Falafel Wrap Special 497,8.48,2
+498,Cheeseburger Special 498,15.35,3
+499,Sushi Roll Special 499,27.5,1
+500,Spaghetti Carbonara Special 500,6.99,2
+501,Cheeseburger Special 501,18.59,3
+502,Cheeseburger Special 502,9.18,2
+503,Sushi Roll Special 503,22.28,4
+504,Spaghetti Carbonara Special 504,13.09,1
+505,Beef Burrito Special 505,11.78,5
+506,Beef Burrito Special 506,19.0,2
+507,Cheeseburger Special 507,35.39,2
+508,Chicken Tikka Masala Special 508,26.63,4
+509,Cheeseburger Special 509,16.75,2
+510,Pho Noodles Special 510,47.98,3
+511,Spaghetti Carbonara Special 511,13.08,3
+512,Caesar Salad Special 512,22.92,1
+513,Spaghetti Carbonara Special 513,28.28,1
+514,Pho Noodles Special 514,9.79,5
+515,Pad Thai Special 515,41.28,3
+516,Spaghetti Carbonara Special 516,20.58,5
+517,Falafel Wrap Special 517,37.97,1
+518,Pad Thai Special 518,34.51,5
+519,Caesar Salad Special 519,23.2,4
+520,Falafel Wrap Special 520,41.31,2
+521,Beef Burrito Special 521,12.24,4
+522,Spaghetti Carbonara Special 522,10.79,3
+523,Pad Thai Special 523,27.81,1
+524,Falafel Wrap Special 524,35.88,5
+525,Cheeseburger Special 525,5.52,5
+526,Cheeseburger Special 526,34.42,4
+527,Spaghetti Carbonara Special 527,35.16,2
+528,Margherita Pizza Special 528,24.01,1
+529,Pho Noodles Special 529,7.45,3
+530,Cheeseburger Special 530,24.12,3
+531,Caesar Salad Special 531,38.39,1
+532,Pho Noodles Special 532,10.22,4
+533,Sushi Roll Special 533,41.32,3
+534,Cheeseburger Special 534,45.87,1
+535,Falafel Wrap Special 535,27.59,4
+536,Falafel Wrap Special 536,40.15,4
+537,Pho Noodles Special 537,37.04,5
+538,Caesar Salad Special 538,42.99,2
+539,Chicken Tikka Masala Special 539,48.73,4
+540,Cheeseburger Special 540,10.03,3
+541,Sushi Roll Special 541,13.05,2
+542,Beef Burrito Special 542,24.08,5
+543,Chicken Tikka Masala Special 543,39.18,1
+544,Spaghetti Carbonara Special 544,44.16,1
+545,Caesar Salad Special 545,8.6,5
+546,Caesar Salad Special 546,5.31,5
+547,Margherita Pizza Special 547,47.67,3
+548,Beef Burrito Special 548,36.84,2
+549,Pho Noodles Special 549,16.6,4
+550,Caesar Salad Special 550,28.17,4
+551,Pad Thai Special 551,32.65,4
+552,Falafel Wrap Special 552,44.25,1
+553,Cheeseburger Special 553,24.57,1
+554,Spaghetti Carbonara Special 554,25.91,3
+555,Falafel Wrap Special 555,6.79,3
+556,Caesar Salad Special 556,44.06,3
+557,Pad Thai Special 557,25.71,5
+558,Caesar Salad Special 558,7.25,3
+559,Caesar Salad Special 559,31.97,4
+560,Falafel Wrap Special 560,21.62,3
+561,Spaghetti Carbonara Special 561,24.16,3
+562,Margherita Pizza Special 562,35.37,1
+563,Caesar Salad Special 563,39.51,1
+564,Falafel Wrap Special 564,6.06,1
+565,Pad Thai Special 565,17.03,4
+566,Caesar Salad Special 566,18.2,2
+567,Chicken Tikka Masala Special 567,23.77,5
+568,Sushi Roll Special 568,25.1,4
+569,Sushi Roll Special 569,18.4,2
+570,Spaghetti Carbonara Special 570,6.6,5
+571,Sushi Roll Special 571,10.03,4
+572,Spaghetti Carbonara Special 572,37.94,3
+573,Sushi Roll Special 573,28.91,1
+574,Spaghetti Carbonara Special 574,22.83,4
+575,Pad Thai Special 575,12.89,5
+576,Sushi Roll Special 576,29.07,5
+577,Pho Noodles Special 577,10.67,5
+578,Beef Burrito Special 578,11.51,4
+579,Cheeseburger Special 579,27.21,5
+580,Spaghetti Carbonara Special 580,45.17,5
+581,Falafel Wrap Special 581,20.54,4
+582,Margherita Pizza Special 582,25.61,1
+583,Caesar Salad Special 583,32.78,5
+584,Falafel Wrap Special 584,46.34,1
+585,Pho Noodles Special 585,45.66,5
+586,Pad Thai Special 586,46.95,1
+587,Margherita Pizza Special 587,41.92,5
+588,Sushi Roll Special 588,30.61,1
+589,Chicken Tikka Masala Special 589,6.83,1
+590,Caesar Salad Special 590,19.7,2
+591,Caesar Salad Special 591,6.72,3
+592,Caesar Salad Special 592,32.42,5
+593,Sushi Roll Special 593,37.57,5
+594,Chicken Tikka Masala Special 594,41.56,4
+595,Beef Burrito Special 595,9.55,4
+596,Chicken Tikka Masala Special 596,28.07,1
+597,Chicken Tikka Masala Special 597,37.64,3
+598,Falafel Wrap Special 598,20.2,4
+599,Spaghetti Carbonara Special 599,33.65,4
+600,Beef Burrito Special 600,18.59,5
+601,Margherita Pizza Special 601,23.03,5
+602,Spaghetti Carbonara Special 602,13.28,1
+603,Chicken Tikka Masala Special 603,38.6,4
+604,Pho Noodles Special 604,37.47,4
+605,Sushi Roll Special 605,38.42,1
+606,Falafel Wrap Special 606,8.57,2
+607,Pad Thai Special 607,46.06,5
+608,Spaghetti Carbonara Special 608,48.43,2
+609,Pho Noodles Special 609,40.71,1
+610,Beef Burrito Special 610,30.69,3
+611,Spaghetti Carbonara Special 611,49.77,1
+612,Caesar Salad Special 612,32.7,3
+613,Caesar Salad Special 613,29.26,4
+614,Spaghetti Carbonara Special 614,40.72,1
+615,Pad Thai Special 615,36.24,4
+616,Pho Noodles Special 616,7.2,3
+617,Spaghetti Carbonara Special 617,30.8,3
+618,Falafel Wrap Special 618,14.68,3
+619,Beef Burrito Special 619,47.1,3
+620,Pad Thai Special 620,17.37,2
+621,Margherita Pizza Special 621,36.0,3
+622,Margherita Pizza Special 622,13.36,4
+623,Pho Noodles Special 623,27.57,1
+624,Sushi Roll Special 624,7.06,3
+625,Margherita Pizza Special 625,22.94,4
+626,Pho Noodles Special 626,13.16,3
+627,Margherita Pizza Special 627,17.82,2
+628,Beef Burrito Special 628,5.23,2
+629,Beef Burrito Special 629,14.32,5
+630,Pad Thai Special 630,40.19,5
+631,Falafel Wrap Special 631,34.57,3
+632,Pad Thai Special 632,17.36,4
+633,Cheeseburger Special 633,25.81,3
+634,Margherita Pizza Special 634,40.56,2
+635,Cheeseburger Special 635,33.57,4
+636,Caesar Salad Special 636,9.37,1
+637,Chicken Tikka Masala Special 637,15.12,3
+638,Spaghetti Carbonara Special 638,36.91,3
+639,Pad Thai Special 639,14.95,5
+640,Falafel Wrap Special 640,32.51,5
+641,Pad Thai Special 641,37.77,2
+642,Pad Thai Special 642,32.42,3
+643,Cheeseburger Special 643,25.73,3
+644,Pad Thai Special 644,23.93,1
+645,Sushi Roll Special 645,31.79,1
+646,Caesar Salad Special 646,29.37,4
+647,Falafel Wrap Special 647,26.4,3
+648,Spaghetti Carbonara Special 648,30.09,5
+649,Chicken Tikka Masala Special 649,20.43,4
+650,Pad Thai Special 650,19.38,2
+651,Spaghetti Carbonara Special 651,42.02,4
+652,Caesar Salad Special 652,11.83,2
+653,Chicken Tikka Masala Special 653,43.45,3
+654,Falafel Wrap Special 654,27.45,4
+655,Spaghetti Carbonara Special 655,28.95,3
+656,Margherita Pizza Special 656,12.65,3
+657,Falafel Wrap Special 657,22.55,4
+658,Beef Burrito Special 658,23.13,3
+659,Pad Thai Special 659,34.73,2
+660,Pho Noodles Special 660,30.71,2
+661,Pho Noodles Special 661,8.54,3
+662,Falafel Wrap Special 662,26.89,1
+663,Pad Thai Special 663,49.32,1
+664,Beef Burrito Special 664,8.74,2
+665,Cheeseburger Special 665,38.66,5
+666,Falafel Wrap Special 666,28.83,3
+667,Spaghetti Carbonara Special 667,18.68,5
+668,Chicken Tikka Masala Special 668,38.79,5
+669,Cheeseburger Special 669,25.32,3
+670,Margherita Pizza Special 670,26.03,5
+671,Margherita Pizza Special 671,12.02,5
+672,Beef Burrito Special 672,31.32,2
+673,Falafel Wrap Special 673,33.09,4
+674,Pho Noodles Special 674,30.42,5
+675,Falafel Wrap Special 675,23.69,1
+676,Pho Noodles Special 676,39.42,2
+677,Cheeseburger Special 677,38.81,1
+678,Pho Noodles Special 678,17.77,1
+679,Margherita Pizza Special 679,38.48,5
+680,Pho Noodles Special 680,49.54,4
+681,Spaghetti Carbonara Special 681,21.89,3
+682,Falafel Wrap Special 682,29.19,2
+683,Sushi Roll Special 683,22.03,3
+684,Pho Noodles Special 684,47.7,5
+685,Pho Noodles Special 685,10.56,3
+686,Sushi Roll Special 686,22.81,4
+687,Pad Thai Special 687,14.51,2
+688,Caesar Salad Special 688,9.98,4
+689,Beef Burrito Special 689,18.02,1
+690,Falafel Wrap Special 690,43.92,3
+691,Caesar Salad Special 691,39.51,5
+692,Beef Burrito Special 692,49.3,5
+693,Pad Thai Special 693,49.05,1
+694,Beef Burrito Special 694,29.75,3
+695,Pad Thai Special 695,20.84,2
+696,Beef Burrito Special 696,14.8,4
+697,Sushi Roll Special 697,45.52,1
+698,Pad Thai Special 698,17.55,2
+699,Margherita Pizza Special 699,39.67,5
+700,Beef Burrito Special 700,33.36,2
+701,Sushi Roll Special 701,34.89,3
+702,Cheeseburger Special 702,35.91,1
+703,Pad Thai Special 703,33.49,4
+704,Margherita Pizza Special 704,33.63,2
+705,Pad Thai Special 705,27.6,2
+706,Pho Noodles Special 706,28.96,2
+707,Pho Noodles Special 707,15.13,2
+708,Margherita Pizza Special 708,23.18,4
+709,Pad Thai Special 709,39.06,2
+710,Sushi Roll Special 710,17.88,2
+711,Falafel Wrap Special 711,46.6,1
+712,Beef Burrito Special 712,12.06,3
+713,Sushi Roll Special 713,44.3,2
+714,Cheeseburger Special 714,23.0,1
+715,Beef Burrito Special 715,5.15,5
+716,Falafel Wrap Special 716,42.34,4
+717,Chicken Tikka Masala Special 717,39.33,4
+718,Pho Noodles Special 718,34.53,4
+719,Beef Burrito Special 719,35.75,5
+720,Cheeseburger Special 720,9.42,5
+721,Falafel Wrap Special 721,31.11,5
+722,Chicken Tikka Masala Special 722,23.81,2
+723,Falafel Wrap Special 723,23.82,4
+724,Caesar Salad Special 724,13.5,2
+725,Caesar Salad Special 725,6.31,5
+726,Pad Thai Special 726,15.09,5
+727,Pad Thai Special 727,32.44,4
+728,Margherita Pizza Special 728,27.65,5
+729,Margherita Pizza Special 729,8.62,4
+730,Cheeseburger Special 730,30.68,3
+731,Cheeseburger Special 731,23.39,3
+732,Pho Noodles Special 732,6.03,3
+733,Chicken Tikka Masala Special 733,32.44,4
+734,Falafel Wrap Special 734,12.49,3
+735,Sushi Roll Special 735,33.15,3
+736,Beef Burrito Special 736,35.8,2
+737,Chicken Tikka Masala Special 737,47.83,3
+738,Sushi Roll Special 738,6.02,5
+739,Spaghetti Carbonara Special 739,32.06,3
+740,Chicken Tikka Masala Special 740,40.54,1
+741,Margherita Pizza Special 741,22.52,2
+742,Cheeseburger Special 742,28.01,3
+743,Caesar Salad Special 743,13.69,2
+744,Pho Noodles Special 744,46.09,5
+745,Sushi Roll Special 745,25.6,5
+746,Margherita Pizza Special 746,37.54,2
+747,Chicken Tikka Masala Special 747,15.77,1
+748,Spaghetti Carbonara Special 748,26.25,5
+749,Cheeseburger Special 749,37.08,4
+750,Spaghetti Carbonara Special 750,13.99,5
+751,Chicken Tikka Masala Special 751,10.97,3
+752,Margherita Pizza Special 752,7.92,1
+753,Chicken Tikka Masala Special 753,6.39,5
+754,Pho Noodles Special 754,30.99,2
+755,Pho Noodles Special 755,25.66,3
+756,Cheeseburger Special 756,35.77,5
+757,Cheeseburger Special 757,24.96,2
+758,Pad Thai Special 758,15.88,4
+759,Chicken Tikka Masala Special 759,12.96,3
+760,Cheeseburger Special 760,25.76,5
+761,Pho Noodles Special 761,33.86,1
+762,Beef Burrito Special 762,41.17,4
+763,Caesar Salad Special 763,42.7,5
+764,Margherita Pizza Special 764,44.24,4
+765,Pad Thai Special 765,45.9,4
+766,Pad Thai Special 766,16.02,5
+767,Falafel Wrap Special 767,37.49,4
+768,Falafel Wrap Special 768,8.14,1
+769,Falafel Wrap Special 769,38.69,2
+770,Margherita Pizza Special 770,35.69,1
+771,Spaghetti Carbonara Special 771,23.29,5
+772,Margherita Pizza Special 772,28.39,4
+773,Pad Thai Special 773,26.16,5
+774,Sushi Roll Special 774,22.34,1
+775,Cheeseburger Special 775,40.24,3
+776,Sushi Roll Special 776,48.09,4
+777,Cheeseburger Special 777,44.75,2
+778,Caesar Salad Special 778,29.18,1
+779,Sushi Roll Special 779,37.21,3
+780,Chicken Tikka Masala Special 780,32.31,1
+781,Chicken Tikka Masala Special 781,49.51,3
+782,Falafel Wrap Special 782,37.16,5
+783,Pho Noodles Special 783,24.73,3
+784,Margherita Pizza Special 784,42.25,1
+785,Chicken Tikka Masala Special 785,7.69,5
+786,Spaghetti Carbonara Special 786,41.52,4
+787,Falafel Wrap Special 787,42.27,4
+788,Falafel Wrap Special 788,37.63,2
+789,Pad Thai Special 789,6.8,4
+790,Sushi Roll Special 790,22.97,2
+791,Cheeseburger Special 791,46.73,4
+792,Pad Thai Special 792,33.32,3
+793,Sushi Roll Special 793,24.8,5
+794,Chicken Tikka Masala Special 794,40.43,3
+795,Pho Noodles Special 795,9.66,3
+796,Falafel Wrap Special 796,43.12,2
+797,Caesar Salad Special 797,39.11,5
+798,Margherita Pizza Special 798,31.09,5
+799,Beef Burrito Special 799,40.62,4
+800,Caesar Salad Special 800,37.49,2
+801,Sushi Roll Special 801,21.49,5
+802,Pad Thai Special 802,34.54,5
+803,Spaghetti Carbonara Special 803,11.39,3
+804,Falafel Wrap Special 804,15.94,1
+805,Pho Noodles Special 805,26.72,5
+806,Pho Noodles Special 806,16.9,1
+807,Falafel Wrap Special 807,19.85,3
+808,Pho Noodles Special 808,36.22,5
+809,Cheeseburger Special 809,25.62,1
+810,Caesar Salad Special 810,36.91,1
+811,Pad Thai Special 811,38.86,5
+812,Cheeseburger Special 812,39.06,1
+813,Pad Thai Special 813,20.41,5
+814,Chicken Tikka Masala Special 814,36.01,4
+815,Chicken Tikka Masala Special 815,19.88,2
+816,Spaghetti Carbonara Special 816,25.27,2
+817,Beef Burrito Special 817,16.61,2
+818,Cheeseburger Special 818,17.39,5
+819,Pho Noodles Special 819,6.61,2
+820,Caesar Salad Special 820,11.3,2
+821,Falafel Wrap Special 821,28.48,1
+822,Falafel Wrap Special 822,6.17,4
+823,Pad Thai Special 823,44.61,1
+824,Margherita Pizza Special 824,30.36,3
+825,Pad Thai Special 825,37.12,1
+826,Caesar Salad Special 826,18.8,1
+827,Chicken Tikka Masala Special 827,37.21,4
+828,Margherita Pizza Special 828,30.54,5
+829,Caesar Salad Special 829,18.71,4
+830,Caesar Salad Special 830,37.09,4
+831,Sushi Roll Special 831,35.3,4
+832,Sushi Roll Special 832,11.95,4
+833,Beef Burrito Special 833,41.23,2
+834,Chicken Tikka Masala Special 834,10.78,3
+835,Caesar Salad Special 835,32.34,2
+836,Caesar Salad Special 836,43.66,1
+837,Falafel Wrap Special 837,16.58,3
+838,Margherita Pizza Special 838,15.26,3
+839,Beef Burrito Special 839,43.29,2
+840,Caesar Salad Special 840,31.25,4
+841,Chicken Tikka Masala Special 841,11.68,3
+842,Margherita Pizza Special 842,5.54,4
+843,Beef Burrito Special 843,21.39,1
+844,Pho Noodles Special 844,27.89,2
+845,Pho Noodles Special 845,44.16,3
+846,Chicken Tikka Masala Special 846,28.26,4
+847,Spaghetti Carbonara Special 847,26.46,2
+848,Falafel Wrap Special 848,45.5,2
+849,Spaghetti Carbonara Special 849,48.76,3
+850,Pho Noodles Special 850,33.97,1
+851,Pho Noodles Special 851,31.42,3
+852,Beef Burrito Special 852,27.55,4
+853,Spaghetti Carbonara Special 853,28.55,1
+854,Sushi Roll Special 854,22.01,5
+855,Spaghetti Carbonara Special 855,46.67,3
+856,Pad Thai Special 856,34.18,1
+857,Beef Burrito Special 857,44.19,5
+858,Caesar Salad Special 858,26.69,1
+859,Falafel Wrap Special 859,26.78,5
+860,Cheeseburger Special 860,22.09,1
+861,Sushi Roll Special 861,35.09,3
+862,Pho Noodles Special 862,7.91,1
+863,Chicken Tikka Masala Special 863,15.12,2
+864,Sushi Roll Special 864,14.29,1
+865,Caesar Salad Special 865,11.75,5
+866,Margherita Pizza Special 866,32.39,1
+867,Margherita Pizza Special 867,37.79,1
+868,Sushi Roll Special 868,10.38,3
+869,Cheeseburger Special 869,13.86,4
+870,Sushi Roll Special 870,27.45,3
+871,Caesar Salad Special 871,30.62,1
+872,Margherita Pizza Special 872,33.74,5
+873,Chicken Tikka Masala Special 873,5.55,5
+874,Caesar Salad Special 874,38.58,3
+875,Margherita Pizza Special 875,41.85,1
+876,Pad Thai Special 876,40.45,2
+877,Margherita Pizza Special 877,45.42,2
+878,Beef Burrito Special 878,38.36,5
+879,Margherita Pizza Special 879,21.36,4
+880,Pad Thai Special 880,6.48,2
+881,Chicken Tikka Masala Special 881,33.19,5
+882,Pho Noodles Special 882,47.84,2
+883,Pad Thai Special 883,27.83,3
+884,Caesar Salad Special 884,17.22,1
+885,Sushi Roll Special 885,48.27,2
+886,Pho Noodles Special 886,43.1,5
+887,Margherita Pizza Special 887,29.2,3
+888,Pad Thai Special 888,8.58,5
+889,Spaghetti Carbonara Special 889,40.91,2
+890,Cheeseburger Special 890,25.1,4
+891,Margherita Pizza Special 891,28.53,2
+892,Pho Noodles Special 892,16.01,5
+893,Pad Thai Special 893,40.88,2
+894,Beef Burrito Special 894,13.22,4
+895,Pho Noodles Special 895,47.14,1
+896,Spaghetti Carbonara Special 896,43.59,5
+897,Spaghetti Carbonara Special 897,15.28,1
+898,Beef Burrito Special 898,37.28,5
+899,Chicken Tikka Masala Special 899,12.98,1
+900,Falafel Wrap Special 900,49.07,3
+901,Cheeseburger Special 901,16.96,3
+902,Beef Burrito Special 902,17.49,1
+903,Beef Burrito Special 903,38.44,3
+904,Caesar Salad Special 904,38.0,2
+905,Sushi Roll Special 905,46.29,5
+906,Chicken Tikka Masala Special 906,45.78,5
+907,Sushi Roll Special 907,10.96,2
+908,Chicken Tikka Masala Special 908,18.62,1
+909,Sushi Roll Special 909,14.35,4
+910,Caesar Salad Special 910,15.98,2
+911,Chicken Tikka Masala Special 911,39.28,5
+912,Beef Burrito Special 912,26.48,2
+913,Margherita Pizza Special 913,9.42,5
+914,Pho Noodles Special 914,44.67,3
+915,Beef Burrito Special 915,7.3,4
+916,Spaghetti Carbonara Special 916,40.55,5
+917,Cheeseburger Special 917,8.29,4
+918,Margherita Pizza Special 918,26.52,4
+919,Sushi Roll Special 919,24.89,1
+920,Pho Noodles Special 920,26.42,5
+921,Falafel Wrap Special 921,9.49,1
+922,Beef Burrito Special 922,31.52,3
+923,Chicken Tikka Masala Special 923,31.92,2
+924,Spaghetti Carbonara Special 924,18.5,3
+925,Cheeseburger Special 925,5.43,2
+926,Caesar Salad Special 926,24.34,2
+927,Falafel Wrap Special 927,45.72,4
+928,Cheeseburger Special 928,37.4,2
+929,Falafel Wrap Special 929,24.92,4
+930,Beef Burrito Special 930,33.92,1
+931,Pad Thai Special 931,31.5,3
+932,Sushi Roll Special 932,33.57,1
+933,Pho Noodles Special 933,39.0,4
+934,Chicken Tikka Masala Special 934,49.65,5
+935,Caesar Salad Special 935,16.33,1
+936,Beef Burrito Special 936,23.32,5
+937,Caesar Salad Special 937,17.18,1
+938,Sushi Roll Special 938,33.4,3
+939,Sushi Roll Special 939,19.79,5
+940,Cheeseburger Special 940,26.75,5
+941,Falafel Wrap Special 941,17.77,5
+942,Pad Thai Special 942,34.04,5
+943,Pho Noodles Special 943,16.89,5
+944,Sushi Roll Special 944,28.95,4
+945,Caesar Salad Special 945,20.35,5
+946,Margherita Pizza Special 946,35.5,2
+947,Beef Burrito Special 947,27.64,3
+948,Margherita Pizza Special 948,33.17,3
+949,Caesar Salad Special 949,10.02,2
+950,Cheeseburger Special 950,39.05,4
+951,Sushi Roll Special 951,13.2,2
+952,Pad Thai Special 952,5.29,3
+953,Beef Burrito Special 953,45.2,4
+954,Cheeseburger Special 954,27.93,4
+955,Margherita Pizza Special 955,27.31,4
+956,Chicken Tikka Masala Special 956,13.05,4
+957,Sushi Roll Special 957,39.22,1
+958,Pad Thai Special 958,35.28,4
+959,Margherita Pizza Special 959,9.26,1
+960,Pad Thai Special 960,43.79,4
+961,Cheeseburger Special 961,20.41,1
+962,Chicken Tikka Masala Special 962,35.91,3
+963,Sushi Roll Special 963,42.02,5
+964,Sushi Roll Special 964,13.71,4
+965,Falafel Wrap Special 965,9.89,5
+966,Cheeseburger Special 966,15.43,4
+967,Beef Burrito Special 967,18.82,3
+968,Spaghetti Carbonara Special 968,18.74,4
+969,Caesar Salad Special 969,39.49,3
+970,Caesar Salad Special 970,26.23,1
+971,Pho Noodles Special 971,35.81,5
+972,Beef Burrito Special 972,46.74,1
+973,Cheeseburger Special 973,14.46,2
+974,Spaghetti Carbonara Special 974,35.23,1
+975,Pho Noodles Special 975,19.57,3
+976,Pad Thai Special 976,13.64,5
+977,Caesar Salad Special 977,22.83,5
+978,Pad Thai Special 978,12.73,5
+979,Cheeseburger Special 979,12.11,2
+980,Cheeseburger Special 980,34.82,3
+981,Sushi Roll Special 981,19.66,1
+982,Cheeseburger Special 982,28.24,5
+983,Cheeseburger Special 983,26.32,1
+984,Caesar Salad Special 984,31.79,1
+985,Spaghetti Carbonara Special 985,23.76,3
+986,Caesar Salad Special 986,37.69,4
+987,Sushi Roll Special 987,15.29,2
+988,Beef Burrito Special 988,16.83,3
+989,Pad Thai Special 989,47.04,5
+990,Spaghetti Carbonara Special 990,42.55,1
+991,Caesar Salad Special 991,21.69,4
+992,Sushi Roll Special 992,18.78,5
+993,Cheeseburger Special 993,37.7,5
+994,Beef Burrito Special 994,42.32,2
+995,Falafel Wrap Special 995,19.19,5
+996,Chicken Tikka Masala Special 996,18.86,3
+997,Pho Noodles Special 997,30.35,1
+998,Beef Burrito Special 998,39.32,2
+999,Margherita Pizza Special 999,5.26,1
+1000,Falafel Wrap Special 1000,47.3,4

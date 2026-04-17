@@ -1,0 +1,290 @@
+-- ====================================
+-- 1. BASIC QUERIES (1–10)
+-- ====================================
+
+-- 1. Get all restaurants in the state of 'CA'
+SELECT * FROM tblRestaurant WHERE State1 = 'CA';
+
+-- 2. List all customers from the city 'New Richard'
+SELECT * FROM tblCustomer WHERE CustCity = 'New Richard';
+
+-- 3. Find all menu items that cost more than 20
+SELECT ItemName, Price FROM tblItem WHERE Price > 20;
+
+-- 4. Show all customers with postal code starting with '7'
+SELECT * FROM tblCustomer WHERE CustPostalCode LIKE '7%';
+
+-- 5. List all orders made in the year 2024
+SELECT * FROM tblOrder WHERE EXTRACT(YEAR FROM OrderDate) = 2024;
+
+-- 6. Show all restaurants with the zip code '050000'
+SELECT RestaurantName, Zip FROM tblRestaurant WHERE Zip like '%05%';
+
+-- 8. Get all employees who started before 2022
+SELECT * FROM tblEmployee WHERE BeginDate < TO_DATE('2022-01-01', 'YYYY-MM-DD');
+
+
+-- 10. List all reviews with the word 'bad'
+SELECT * FROM tblReview WHERE LOWER(ReviewBody) LIKE '%good%';
+
+
+-- ====================================
+-- 2. FUNCTIONS AND EXPRESSIONS (11–20)
+-- ====================================
+
+-- 11. Count total number of restaurants
+SELECT COUNT(*) FROM tblRestaurant;
+
+-- 12. Calculate average item price
+SELECT AVG(Price) AS AvgPrice FROM tblItem;
+
+-- 13. Total number of orders per customer
+SELECT CustID, COUNT(*) AS TotalOrders FROM tblOrder GROUP BY CustID;
+
+-- 14. Max and Min salary range
+SELECT MAX(SalaryRange), MIN(SalaryRange) FROM tblPosition;
+
+-- 15. Sum of all order amounts
+SELECT SUM(TotalAmount) FROM tblOrder;
+
+-- 16. Number of customers in each city
+SELECT CustCity, COUNT(*) FROM tblCustomer GROUP BY CustCity;
+
+-- 17. Round average item price to 2 decimals
+SELECT ROUND(AVG(Price), 2) AS RoundedAverage FROM tblItem;
+
+-- 18. Categorize items by price range
+SELECT ItemName, 
+       CASE 
+         WHEN Price < 15 THEN 'Cheap'
+         WHEN Price <= 30 THEN 'Moderate'
+         ELSE 'Expensive'
+       END AS PriceCategory
+FROM tblItem;
+
+-- 19. Show full name of employees
+SELECT EmpFname || ' ' || EmpLname AS FullName FROM tblEmployee;
+
+-- 20. Show total number of reviews per rating
+SELECT RatingID, COUNT(*) FROM tblReview GROUP BY RatingID;
+
+
+-- ====================================
+-- 3. SQL SUBQUERIES (21–30)
+-- ====================================
+
+-- 21. Restaurants in cities with more than 5 restaurants
+SELECT * FROM tblRestaurant 
+WHERE City IN (
+  SELECT City FROM tblRestaurant GROUP BY City HAVING COUNT(*) > 5
+);
+
+-- 22. Customers who placed at least one order
+SELECT * FROM tblCustomer
+WHERE CustID IN (SELECT DISTINCT CustID FROM tblOrder);
+
+-- 23. Items more expensive than the average
+SELECT * FROM tblItem
+WHERE Price > (SELECT AVG(Price) FROM tblItem);
+
+-- 24. Orders with highest amount
+SELECT * FROM tblOrder 
+WHERE TotalAmount = (SELECT MAX(TotalAmount) FROM tblOrder);
+
+-- 25. Restaurants with no orders
+SELECT * FROM tblRestaurant
+WHERE RestaurantID NOT IN (
+  SELECT DISTINCT m.RestaurantID
+  FROM tblMenu m
+  JOIN tblOrder_Menu om ON m.MenuID = om.MenuID
+);
+
+-- 26. Customers who never left a review
+SELECT * FROM tblCustomer
+WHERE CustID NOT IN (
+  SELECT DISTINCT o.CustID
+  FROM tblOrder o
+  JOIN tblOrder_Menu om ON o.OrderID = om.OrderID
+  JOIN tblReview r ON om.OrderMenuID = r.OrderMenuID
+);
+
+-- 27. Items only in 'Dinner' menu type
+SELECT ItemID FROM tblMenu
+WHERE MenuTypeID = (
+  SELECT MenuTypeID FROM tblMenu_Type WHERE MenuTypeName = 'Dinner'
+);
+
+-- 28. Restaurants with item count above average
+SELECT RestaurantID FROM tblMenu
+GROUP BY RestaurantID
+HAVING COUNT(*) > (
+  SELECT AVG(MenuCount)
+  FROM (SELECT COUNT(*) AS MenuCount FROM tblMenu GROUP BY RestaurantID)
+);
+
+-- 29. Employees with position 'Chef'
+SELECT * FROM tblEmployee
+WHERE EmpID IN (
+  SELECT EmpID FROM tblEmployee_Position ep
+  JOIN tblPosition p ON ep.PositionID = p.PositionID
+  WHERE p.PositionName = 'Chef'
+);
+
+-- 30. Orders with amount greater than customer's average
+SELECT * FROM tblOrder o1
+WHERE TotalAmount > (
+  SELECT AVG(o2.TotalAmount) FROM tblOrder o2 WHERE o2.CustID = o1.CustID
+);
+
+
+-- ====================================
+-- 4. JOINING MULTIPLE TABLES (31–40)
+-- ====================================
+
+-- 31. Item name, restaurant, price
+SELECT i.ItemName, r.RestaurantName, i.Price
+FROM tblMenu m
+JOIN tblItem i ON m.ItemID = i.ItemID
+JOIN tblRestaurant r ON m.RestaurantID = r.RestaurantID;
+
+-- 32. Order info with customer name
+SELECT o.OrderID, c.CustFname, o.TotalAmount
+FROM tblOrder o
+JOIN tblCustomer c ON o.CustID = c.CustID;
+
+-- 33. Menu items and ingredients
+SELECT i.ItemName, ing.IngredientName
+FROM tblMenu m
+JOIN tblItem i ON m.ItemID = i.ItemID
+JOIN tblMenu_Ingredient mi ON m.MenuID = mi.MenuID
+JOIN tblIngredient ing ON mi.IngredientID = ing.IngredientID;
+
+-- 34. Employee full name and position
+SELECT e.EmpFname || ' ' || e.EmpLname AS FullName, p.PositionName
+FROM tblEmployee e
+JOIN tblEmployee_Position ep ON e.EmpID = ep.EmpID
+JOIN tblPosition p ON ep.PositionID = p.PositionID;
+
+-- 35. Reviews with customer and item name
+SELECT c.CustFname, i.ItemName, r.ReviewBody
+FROM tblReview r
+JOIN tblOrder_Menu om ON r.OrderMenuID = om.OrderMenuID
+JOIN tblOrder o ON om.OrderID = o.OrderID
+JOIN tblCustomer c ON o.CustID = c.CustID
+JOIN tblMenu m ON om.MenuID = m.MenuID
+JOIN tblItem i ON m.ItemID = i.ItemID;
+
+-- 36. Status of each order
+SELECT o.OrderID, s.StatusName, os.Time
+FROM tblOrder o
+JOIN tblOrder_Status os ON o.OrderID = os.OrderID
+JOIN tblStatus s ON os.StatusID = s.StatusID;
+
+-- 37. Special requests linked to items
+SELECT sr.SpecialRequestDescr, i.ItemName
+FROM tblSpecial_Order_Menu som
+JOIN tblSpecial_Request sr ON som.SpecialRequestID = sr.SpecialRequestID
+JOIN tblOrder_Menu om ON som.OrderMenuID = om.OrderMenuID
+JOIN tblMenu m ON om.MenuID = m.MenuID
+JOIN tblItem i ON m.ItemID = i.ItemID;
+
+-- 38. Restaurant and menu type per item
+SELECT r.RestaurantName, i.ItemName, mt.MenuTypeName
+FROM tblMenu m
+JOIN tblRestaurant r ON m.RestaurantID = r.RestaurantID
+JOIN tblItem i ON m.ItemID = i.ItemID
+JOIN tblMenu_Type mt ON m.MenuTypeID = mt.MenuTypeID;
+
+-- 39. Employees who worked on orders
+SELECT DISTINCT e.EmpFname, e.EmpLname
+FROM tblOrder o
+JOIN tblEmployee_Position ep ON o.EmployeePositionID = ep.EmployeePositionID
+JOIN tblEmployee e ON ep.EmpID = e.EmpID;
+
+-- 40. Rating score with item name
+SELECT i.ItemName, rt.Score
+FROM tblReview rv
+JOIN tblOrder_Menu om ON rv.OrderMenuID = om.OrderMenuID
+JOIN tblMenu m ON om.MenuID = m.MenuID
+JOIN tblItem i ON m.ItemID = i.ItemID
+JOIN tblRating rt ON rv.RatingID = rt.RatingID;
+
+
+-- ====================================
+-- 5. WINDOW FUNCTIONS (41–45)
+-- ====================================
+
+-- 41. Row number of each customer order
+SELECT OrderID, CustID, OrderDate,
+       ROW_NUMBER() OVER (PARTITION BY CustID ORDER BY OrderDate DESC) AS OrderRank
+FROM tblOrder;
+
+-- 42. Running total of order amount per customer
+SELECT CustID, TotalAmount,
+       SUM(TotalAmount) OVER (PARTITION BY CustID ORDER BY OrderDate) AS RunningTotal
+FROM tblOrder;
+
+-- 43. Rank restaurants by total order revenue
+SELECT r.RestaurantName,
+       SUM(om.TotalPrice) AS Revenue,
+       RANK() OVER (ORDER BY SUM(om.TotalPrice) DESC) AS RevenueRank
+FROM tblOrder_Menu om
+JOIN tblMenu m ON om.MenuID = m.MenuID
+JOIN tblRestaurant r ON m.RestaurantID = r.RestaurantID
+GROUP BY r.RestaurantName;
+
+-- 44. Average order amount for each customer
+SELECT OrderID, CustID, TotalAmount,
+       AVG(TotalAmount) OVER (PARTITION BY CustID) AS AvgSpend
+FROM tblOrder;
+
+-- 45. Price deviation from average
+SELECT ItemName, Price,
+       Price - AVG(Price) OVER () AS PriceDeviation
+FROM tblItem;
+
+
+-- ====================================
+-- 6. TRIGGERS & INDEXES (46–55)
+-- ====================================
+
+
+
+
+-- 48. Update ReviewDate automatically
+CREATE OR REPLACE TRIGGER trg_update_review_date
+BEFORE UPDATE ON tblReview
+FOR EACH ROW
+BEGIN
+  :NEW.ReviewDate := SYSDATE;
+END;
+
+-- 49. Auto-fill RatingDescr by Score
+CREATE OR REPLACE TRIGGER trg_fill_rating_descr
+BEFORE INSERT ON tblRating
+FOR EACH ROW
+BEGIN
+  IF :NEW.Score >= 4 THEN :NEW.RatingDescr := 'Positive';
+  ELSIF :NEW.Score = 3 THEN :NEW.RatingDescr := 'Neutral';
+  ELSE :NEW.RatingDescr := 'Negative';
+  END IF;
+END;
+
+
+-- 51. Create index on Customer ID
+CREATE INDEX idx_order_custid ON tblOrder(CustID);
+
+-- 52. Index on OrderDate
+CREATE INDEX idx_order_date ON tblOrder(OrderDate);
+
+-- 53. Composite index on Menu(RestaurantID, ItemID)
+CREATE INDEX idx_menu_rest_item ON tblMenu(RestaurantID, ItemID);
+
+-- 54. Unique index on customer phone
+CREATE UNIQUE INDEX idx_unique_phone ON tblCustomer(PhoneNumber);
+
+-- 55. Bitmap index on order status
+CREATE BITMAP INDEX idx_status_id ON tblOrder_Status(StatusID);
+
+
+

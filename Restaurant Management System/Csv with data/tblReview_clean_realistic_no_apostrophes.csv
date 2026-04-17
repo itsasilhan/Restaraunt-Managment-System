@@ -1,0 +1,1001 @@
+ReviewID,OrderMenuID,RatingID,ReviewDate,ReviewBody
+1,1,4,2023-05-10,Very good! Would definitely try again.
+2,2,1,2025-02-26,Worst meal Ive had in a while. Ingredients tasted stale.
+3,3,2,2023-11-13,Service was okay but food was a letdown.
+4,4,5,2023-02-21,Exceptional quality and taste. Will return soon.
+5,5,1,2024-02-12,Very disappointed. The dish was bland and overcooked.
+6,6,1,2023-12-05,Nothing was fresh. Left the restaurant feeling sick.
+7,7,5,2023-07-07,One of the best meals Ive had. Highly recommend.
+8,8,4,2023-02-18,Very good! Would definitely try again.
+9,9,5,2024-12-01,Exceptional quality and taste. Will return soon.
+10,10,4,2024-03-23,Food came out hot and delicious.
+11,11,4,2025-02-01,Tasty and satisfying. Good portion size too.
+12,12,2,2024-08-31,Below average. The pasta was dry and sauce too salty.
+13,13,3,2024-08-07,"It was okay. Decent flavor, but not memorable."
+14,14,4,2025-04-16,Very good! Would definitely try again.
+15,15,1,2023-03-15,Worst meal Ive had in a while. Ingredients tasted stale.
+16,16,1,2023-03-10,Terrible experience. Food was cold and lacked flavor.
+17,17,2,2024-11-02,"The presentation was fine, but taste didnt follow through."
+18,18,1,2024-02-10,Poor hygiene and undercooked food. Would not recommend.
+19,19,2,2024-08-20,Could have been better. Missing key ingredients.
+20,20,5,2024-06-07,Flawless service and delicious food. A+
+21,21,5,2024-07-28,Flawless service and delicious food. A+
+22,22,5,2023-12-08,One of the best meals Ive had. Highly recommend.
+23,23,3,2024-01-07,Average experience. Nothing stood out.
+24,24,1,2023-07-19,Nothing was fresh. Left the restaurant feeling sick.
+25,25,5,2024-12-28,Exceptional quality and taste. Will return soon.
+26,26,2,2023-07-24,"The presentation was fine, but taste didnt follow through."
+27,27,4,2024-09-08,Enjoyed the experience. Service was fast.
+28,28,1,2025-04-01,Terrible experience. Food was cold and lacked flavor.
+29,29,5,2024-05-09,Absolutely amazing! Every bite was perfect.
+30,30,5,2024-02-25,Exceptional quality and taste. Will return soon.
+31,31,3,2023-06-10,"Neutral feelings. Food was fine, not amazing."
+32,32,1,2025-04-07,Nothing was fresh. Left the restaurant feeling sick.
+33,33,5,2025-02-27,Flawless service and delicious food. A+
+34,34,3,2023-04-20,"Some dishes were good, others were underwhelming."
+35,35,4,2023-01-08,Enjoyed the experience. Service was fast.
+36,36,3,2024-07-09,"Acceptable taste, but could be improved."
+37,37,3,2024-03-19,"Neutral feelings. Food was fine, not amazing."
+38,38,3,2024-06-16,"Neutral feelings. Food was fine, not amazing."
+39,39,2,2024-06-26,Below average. The pasta was dry and sauce too salty.
+40,40,4,2024-07-07,Very good! Would definitely try again.
+41,41,1,2023-10-19,Poor hygiene and undercooked food. Would not recommend.
+42,42,4,2024-10-08,Enjoyed the experience. Service was fast.
+43,43,5,2023-10-02,Perfect experience. Great flavors and friendly staff.
+44,44,2,2025-01-30,Below average. The pasta was dry and sauce too salty.
+45,45,4,2023-10-21,Food came out hot and delicious.
+46,46,4,2023-06-13,Very good! Would definitely try again.
+47,47,3,2025-03-15,"Neutral feelings. Food was fine, not amazing."
+48,48,5,2023-03-29,Absolutely amazing! Every bite was perfect.
+49,49,1,2024-01-29,Very disappointed. The dish was bland and overcooked.
+50,50,1,2024-06-19,Poor hygiene and undercooked food. Would not recommend.
+51,51,2,2024-06-03,Service was okay but food was a letdown.
+52,52,5,2023-04-18,Flawless service and delicious food. A+
+53,53,5,2023-07-25,Perfect experience. Great flavors and friendly staff.
+54,54,5,2024-08-30,Exceptional quality and taste. Will return soon.
+55,55,3,2025-01-31,"It was okay. Decent flavor, but not memorable."
+56,56,4,2024-01-07,Enjoyed the experience. Service was fast.
+57,57,5,2023-12-19,Exceptional quality and taste. Will return soon.
+58,58,1,2023-08-02,Very disappointed. The dish was bland and overcooked.
+59,59,5,2023-12-17,Perfect experience. Great flavors and friendly staff.
+60,60,5,2025-02-28,Perfect experience. Great flavors and friendly staff.
+61,61,4,2023-10-21,Enjoyed the experience. Service was fast.
+62,62,4,2023-03-05,Very good! Would definitely try again.
+63,63,2,2023-06-15,"The presentation was fine, but taste didnt follow through."
+64,64,1,2024-04-14,Worst meal Ive had in a while. Ingredients tasted stale.
+65,65,2,2023-05-31,"The presentation was fine, but taste didnt follow through."
+66,66,5,2023-07-09,One of the best meals Ive had. Highly recommend.
+67,67,1,2024-07-01,Nothing was fresh. Left the restaurant feeling sick.
+68,68,4,2023-09-03,Tasty and satisfying. Good portion size too.
+69,69,3,2024-04-26,"It was okay. Decent flavor, but not memorable."
+70,70,1,2024-02-19,Nothing was fresh. Left the restaurant feeling sick.
+71,71,2,2024-11-24,Could have been better. Missing key ingredients.
+72,72,5,2023-02-21,Flawless service and delicious food. A+
+73,73,1,2023-03-11,Worst meal Ive had in a while. Ingredients tasted stale.
+74,74,5,2023-04-17,Exceptional quality and taste. Will return soon.
+75,75,3,2023-01-02,"Neutral feelings. Food was fine, not amazing."
+76,76,2,2025-02-16,Below average. The pasta was dry and sauce too salty.
+77,77,3,2023-03-07,"Acceptable taste, but could be improved."
+78,78,3,2023-04-06,"Some dishes were good, others were underwhelming."
+79,79,2,2023-12-03,Could have been better. Missing key ingredients.
+80,80,2,2023-03-19,Below average. The pasta was dry and sauce too salty.
+81,81,4,2024-05-05,Very good! Would definitely try again.
+82,82,3,2023-07-29,"It was okay. Decent flavor, but not memorable."
+83,83,4,2023-05-14,Food came out hot and delicious.
+84,84,3,2024-09-24,"It was okay. Decent flavor, but not memorable."
+85,85,1,2025-01-07,Poor hygiene and undercooked food. Would not recommend.
+86,86,1,2023-05-16,Worst meal Ive had in a while. Ingredients tasted stale.
+87,87,5,2023-12-20,Absolutely amazing! Every bite was perfect.
+88,88,3,2024-11-28,Average experience. Nothing stood out.
+89,89,4,2025-02-01,Very good! Would definitely try again.
+90,90,3,2023-01-03,"Neutral feelings. Food was fine, not amazing."
+91,91,1,2025-04-11,Nothing was fresh. Left the restaurant feeling sick.
+92,92,5,2025-02-02,One of the best meals Ive had. Highly recommend.
+93,93,1,2025-01-20,Very disappointed. The dish was bland and overcooked.
+94,94,3,2024-11-02,"Neutral feelings. Food was fine, not amazing."
+95,95,2,2024-11-10,Not great. Meal was served lukewarm and lacked seasoning.
+96,96,4,2024-10-01,Nice flavors and well-balanced seasoning.
+97,97,4,2025-03-28,Very good! Would definitely try again.
+98,98,2,2024-07-27,Below average. The pasta was dry and sauce too salty.
+99,99,1,2023-06-02,Nothing was fresh. Left the restaurant feeling sick.
+100,100,1,2024-04-02,Worst meal Ive had in a while. Ingredients tasted stale.
+101,101,5,2023-10-22,Perfect experience. Great flavors and friendly staff.
+102,102,5,2025-04-13,Absolutely amazing! Every bite was perfect.
+103,103,4,2024-05-24,Enjoyed the experience. Service was fast.
+104,104,5,2023-04-01,Absolutely amazing! Every bite was perfect.
+105,105,1,2025-03-07,Worst meal Ive had in a while. Ingredients tasted stale.
+106,106,1,2023-12-12,Nothing was fresh. Left the restaurant feeling sick.
+107,107,5,2024-01-07,Perfect experience. Great flavors and friendly staff.
+108,108,4,2024-09-15,Tasty and satisfying. Good portion size too.
+109,109,2,2023-03-01,Below average. The pasta was dry and sauce too salty.
+110,110,2,2024-09-22,Service was okay but food was a letdown.
+111,111,3,2023-07-17,"Neutral feelings. Food was fine, not amazing."
+112,112,2,2023-12-31,Not great. Meal was served lukewarm and lacked seasoning.
+113,113,5,2023-03-24,One of the best meals Ive had. Highly recommend.
+114,114,4,2024-10-23,Food came out hot and delicious.
+115,115,1,2024-12-01,Worst meal Ive had in a while. Ingredients tasted stale.
+116,116,2,2025-01-15,Service was okay but food was a letdown.
+117,117,2,2023-09-10,Not great. Meal was served lukewarm and lacked seasoning.
+118,118,5,2023-03-23,Absolutely amazing! Every bite was perfect.
+119,119,5,2023-11-02,One of the best meals Ive had. Highly recommend.
+120,120,3,2023-11-30,"Neutral feelings. Food was fine, not amazing."
+121,121,2,2023-05-06,Could have been better. Missing key ingredients.
+122,122,4,2024-12-25,Tasty and satisfying. Good portion size too.
+123,123,2,2023-11-15,"The presentation was fine, but taste didnt follow through."
+124,124,1,2023-06-30,Poor hygiene and undercooked food. Would not recommend.
+125,125,4,2024-03-19,Very good! Would definitely try again.
+126,126,3,2023-04-30,"It was okay. Decent flavor, but not memorable."
+127,127,1,2023-03-27,Terrible experience. Food was cold and lacked flavor.
+128,128,2,2024-04-06,Not great. Meal was served lukewarm and lacked seasoning.
+129,129,2,2024-04-09,Service was okay but food was a letdown.
+130,130,2,2024-02-27,Not great. Meal was served lukewarm and lacked seasoning.
+131,131,1,2023-09-19,Worst meal Ive had in a while. Ingredients tasted stale.
+132,132,5,2025-04-07,Exceptional quality and taste. Will return soon.
+133,133,5,2024-09-03,Perfect experience. Great flavors and friendly staff.
+134,134,4,2024-12-28,Tasty and satisfying. Good portion size too.
+135,135,2,2023-05-05,"The presentation was fine, but taste didnt follow through."
+136,136,2,2024-09-18,Could have been better. Missing key ingredients.
+137,137,5,2024-02-27,Flawless service and delicious food. A+
+138,138,1,2023-06-23,Nothing was fresh. Left the restaurant feeling sick.
+139,139,1,2024-09-14,Worst meal Ive had in a while. Ingredients tasted stale.
+140,140,3,2023-01-17,"Neutral feelings. Food was fine, not amazing."
+141,141,1,2024-03-31,Very disappointed. The dish was bland and overcooked.
+142,142,4,2024-03-06,Nice flavors and well-balanced seasoning.
+143,143,3,2023-03-04,"It was okay. Decent flavor, but not memorable."
+144,144,2,2024-02-02,"The presentation was fine, but taste didnt follow through."
+145,145,1,2023-07-08,Nothing was fresh. Left the restaurant feeling sick.
+146,146,5,2023-11-12,Flawless service and delicious food. A+
+147,147,3,2024-03-19,"It was okay. Decent flavor, but not memorable."
+148,148,2,2025-04-14,Not great. Meal was served lukewarm and lacked seasoning.
+149,149,2,2024-07-23,Below average. The pasta was dry and sauce too salty.
+150,150,4,2023-10-24,Nice flavors and well-balanced seasoning.
+151,151,3,2025-02-13,"Acceptable taste, but could be improved."
+152,152,4,2023-01-23,Nice flavors and well-balanced seasoning.
+153,153,5,2025-03-09,Perfect experience. Great flavors and friendly staff.
+154,154,1,2023-06-10,Terrible experience. Food was cold and lacked flavor.
+155,155,4,2023-09-03,Tasty and satisfying. Good portion size too.
+156,156,5,2023-08-16,Perfect experience. Great flavors and friendly staff.
+157,157,4,2025-02-16,Nice flavors and well-balanced seasoning.
+158,158,1,2025-04-09,Poor hygiene and undercooked food. Would not recommend.
+159,159,5,2023-10-01,Absolutely amazing! Every bite was perfect.
+160,160,1,2024-05-16,Very disappointed. The dish was bland and overcooked.
+161,161,3,2024-10-27,"It was okay. Decent flavor, but not memorable."
+162,162,5,2023-08-11,One of the best meals Ive had. Highly recommend.
+163,163,4,2025-03-17,Very good! Would definitely try again.
+164,164,5,2023-01-08,One of the best meals Ive had. Highly recommend.
+165,165,4,2024-04-21,Nice flavors and well-balanced seasoning.
+166,166,5,2024-05-15,Perfect experience. Great flavors and friendly staff.
+167,167,2,2024-11-04,Below average. The pasta was dry and sauce too salty.
+168,168,1,2024-04-04,Nothing was fresh. Left the restaurant feeling sick.
+169,169,3,2024-09-02,"Acceptable taste, but could be improved."
+170,170,2,2024-05-12,Could have been better. Missing key ingredients.
+171,171,4,2023-05-11,Very good! Would definitely try again.
+172,172,2,2023-11-07,Could have been better. Missing key ingredients.
+173,173,5,2023-01-20,One of the best meals Ive had. Highly recommend.
+174,174,1,2023-08-29,Very disappointed. The dish was bland and overcooked.
+175,175,5,2024-08-20,One of the best meals Ive had. Highly recommend.
+176,176,1,2023-01-29,Nothing was fresh. Left the restaurant feeling sick.
+177,177,5,2024-07-02,Flawless service and delicious food. A+
+178,178,3,2023-04-01,Average experience. Nothing stood out.
+179,179,2,2023-01-14,Below average. The pasta was dry and sauce too salty.
+180,180,4,2024-12-02,Very good! Would definitely try again.
+181,181,5,2024-08-29,One of the best meals Ive had. Highly recommend.
+182,182,1,2024-09-05,Worst meal Ive had in a while. Ingredients tasted stale.
+183,183,1,2024-02-14,Poor hygiene and undercooked food. Would not recommend.
+184,184,5,2024-12-19,One of the best meals Ive had. Highly recommend.
+185,185,4,2024-02-21,Tasty and satisfying. Good portion size too.
+186,186,1,2024-01-24,Very disappointed. The dish was bland and overcooked.
+187,187,4,2023-09-20,Very good! Would definitely try again.
+188,188,3,2023-04-14,"Neutral feelings. Food was fine, not amazing."
+189,189,2,2023-03-01,Not great. Meal was served lukewarm and lacked seasoning.
+190,190,1,2025-03-09,Poor hygiene and undercooked food. Would not recommend.
+191,191,5,2023-11-09,Flawless service and delicious food. A+
+192,192,3,2023-11-09,"Acceptable taste, but could be improved."
+193,193,3,2023-04-02,"It was okay. Decent flavor, but not memorable."
+194,194,1,2023-11-27,Worst meal Ive had in a while. Ingredients tasted stale.
+195,195,2,2023-08-21,Below average. The pasta was dry and sauce too salty.
+196,196,5,2024-08-18,Absolutely amazing! Every bite was perfect.
+197,197,4,2023-09-23,Tasty and satisfying. Good portion size too.
+198,198,3,2024-02-20,"Neutral feelings. Food was fine, not amazing."
+199,199,4,2023-01-01,Enjoyed the experience. Service was fast.
+200,200,5,2024-11-02,Absolutely amazing! Every bite was perfect.
+201,201,2,2025-01-05,Below average. The pasta was dry and sauce too salty.
+202,202,3,2023-09-15,"Some dishes were good, others were underwhelming."
+203,203,4,2023-01-13,Very good! Would definitely try again.
+204,204,1,2023-12-09,Worst meal Ive had in a while. Ingredients tasted stale.
+205,205,1,2023-01-29,Worst meal Ive had in a while. Ingredients tasted stale.
+206,206,4,2023-06-01,Enjoyed the experience. Service was fast.
+207,207,5,2024-10-02,Exceptional quality and taste. Will return soon.
+208,208,2,2024-02-21,Service was okay but food was a letdown.
+209,209,3,2024-05-24,"Neutral feelings. Food was fine, not amazing."
+210,210,3,2025-02-23,"It was okay. Decent flavor, but not memorable."
+211,211,4,2023-01-20,Very good! Would definitely try again.
+212,212,1,2024-12-13,Terrible experience. Food was cold and lacked flavor.
+213,213,4,2023-10-24,Very good! Would definitely try again.
+214,214,2,2023-05-10,"The presentation was fine, but taste didnt follow through."
+215,215,4,2024-09-03,Very good! Would definitely try again.
+216,216,2,2024-08-29,Service was okay but food was a letdown.
+217,217,2,2023-06-01,Service was okay but food was a letdown.
+218,218,2,2023-05-10,Below average. The pasta was dry and sauce too salty.
+219,219,3,2025-01-06,"Some dishes were good, others were underwhelming."
+220,220,3,2024-03-12,Average experience. Nothing stood out.
+221,221,1,2024-10-21,Worst meal Ive had in a while. Ingredients tasted stale.
+222,222,2,2024-02-24,Service was okay but food was a letdown.
+223,223,3,2024-09-20,"It was okay. Decent flavor, but not memorable."
+224,224,2,2024-06-06,Below average. The pasta was dry and sauce too salty.
+225,225,3,2023-03-04,Average experience. Nothing stood out.
+226,226,1,2023-11-19,Nothing was fresh. Left the restaurant feeling sick.
+227,227,2,2024-08-14,Service was okay but food was a letdown.
+228,228,5,2023-10-23,Absolutely amazing! Every bite was perfect.
+229,229,1,2024-10-07,Very disappointed. The dish was bland and overcooked.
+230,230,5,2024-11-04,Perfect experience. Great flavors and friendly staff.
+231,231,2,2024-08-01,Not great. Meal was served lukewarm and lacked seasoning.
+232,232,3,2023-10-03,Average experience. Nothing stood out.
+233,233,1,2023-03-28,Very disappointed. The dish was bland and overcooked.
+234,234,2,2023-03-04,"The presentation was fine, but taste didnt follow through."
+235,235,5,2023-05-05,Absolutely amazing! Every bite was perfect.
+236,236,1,2023-10-31,Worst meal Ive had in a while. Ingredients tasted stale.
+237,237,1,2023-02-13,Very disappointed. The dish was bland and overcooked.
+238,238,3,2023-02-07,"Acceptable taste, but could be improved."
+239,239,4,2023-09-10,Food came out hot and delicious.
+240,240,4,2023-09-19,Enjoyed the experience. Service was fast.
+241,241,5,2023-10-15,Exceptional quality and taste. Will return soon.
+242,242,1,2023-05-25,Worst meal Ive had in a while. Ingredients tasted stale.
+243,243,5,2024-05-03,Absolutely amazing! Every bite was perfect.
+244,244,5,2024-04-07,Exceptional quality and taste. Will return soon.
+245,245,4,2025-03-07,Very good! Would definitely try again.
+246,246,5,2025-03-14,One of the best meals Ive had. Highly recommend.
+247,247,4,2023-03-02,Very good! Would definitely try again.
+248,248,3,2024-09-25,"Neutral feelings. Food was fine, not amazing."
+249,249,3,2023-08-09,"It was okay. Decent flavor, but not memorable."
+250,250,4,2024-09-08,Enjoyed the experience. Service was fast.
+251,251,3,2023-06-30,"Some dishes were good, others were underwhelming."
+252,252,3,2023-05-23,"It was okay. Decent flavor, but not memorable."
+253,253,2,2023-06-01,Not great. Meal was served lukewarm and lacked seasoning.
+254,254,2,2023-11-08,Below average. The pasta was dry and sauce too salty.
+255,255,5,2023-01-22,One of the best meals Ive had. Highly recommend.
+256,256,1,2023-09-05,Very disappointed. The dish was bland and overcooked.
+257,257,5,2024-03-31,Perfect experience. Great flavors and friendly staff.
+258,258,5,2023-01-26,Perfect experience. Great flavors and friendly staff.
+259,259,1,2023-09-12,Worst meal Ive had in a while. Ingredients tasted stale.
+260,260,4,2024-05-09,Tasty and satisfying. Good portion size too.
+261,261,1,2024-01-16,Worst meal Ive had in a while. Ingredients tasted stale.
+262,262,4,2023-06-18,Enjoyed the experience. Service was fast.
+263,263,5,2023-04-15,One of the best meals Ive had. Highly recommend.
+264,264,2,2023-06-27,"The presentation was fine, but taste didnt follow through."
+265,265,2,2024-08-20,Below average. The pasta was dry and sauce too salty.
+266,266,2,2023-12-16,Not great. Meal was served lukewarm and lacked seasoning.
+267,267,3,2023-05-10,"It was okay. Decent flavor, but not memorable."
+268,268,3,2024-12-29,"Acceptable taste, but could be improved."
+269,269,4,2023-03-04,Tasty and satisfying. Good portion size too.
+270,270,3,2024-12-29,Average experience. Nothing stood out.
+271,271,3,2025-01-07,"Some dishes were good, others were underwhelming."
+272,272,1,2025-01-18,Terrible experience. Food was cold and lacked flavor.
+273,273,3,2023-10-20,"It was okay. Decent flavor, but not memorable."
+274,274,5,2024-04-05,Exceptional quality and taste. Will return soon.
+275,275,1,2023-10-10,Very disappointed. The dish was bland and overcooked.
+276,276,5,2024-02-16,Perfect experience. Great flavors and friendly staff.
+277,277,2,2024-06-21,Not great. Meal was served lukewarm and lacked seasoning.
+278,278,2,2024-04-19,"The presentation was fine, but taste didnt follow through."
+279,279,2,2025-02-28,Could have been better. Missing key ingredients.
+280,280,1,2023-12-13,Very disappointed. The dish was bland and overcooked.
+281,281,1,2025-03-20,Nothing was fresh. Left the restaurant feeling sick.
+282,282,2,2024-11-01,Could have been better. Missing key ingredients.
+283,283,2,2024-08-28,Not great. Meal was served lukewarm and lacked seasoning.
+284,284,3,2023-12-25,"Neutral feelings. Food was fine, not amazing."
+285,285,4,2024-05-01,Very good! Would definitely try again.
+286,286,2,2023-11-02,Below average. The pasta was dry and sauce too salty.
+287,287,4,2023-01-02,Enjoyed the experience. Service was fast.
+288,288,5,2024-10-29,Flawless service and delicious food. A+
+289,289,2,2024-12-11,Service was okay but food was a letdown.
+290,290,3,2025-02-24,"Acceptable taste, but could be improved."
+291,291,3,2024-09-10,"It was okay. Decent flavor, but not memorable."
+292,292,4,2025-01-03,Very good! Would definitely try again.
+293,293,5,2023-12-26,Flawless service and delicious food. A+
+294,294,2,2024-07-01,"The presentation was fine, but taste didnt follow through."
+295,295,4,2024-07-20,Nice flavors and well-balanced seasoning.
+296,296,5,2025-02-20,One of the best meals Ive had. Highly recommend.
+297,297,1,2024-04-16,Terrible experience. Food was cold and lacked flavor.
+298,298,3,2023-02-13,"It was okay. Decent flavor, but not memorable."
+299,299,1,2024-07-05,Very disappointed. The dish was bland and overcooked.
+300,300,2,2023-07-15,"The presentation was fine, but taste didnt follow through."
+301,301,5,2024-09-01,Absolutely amazing! Every bite was perfect.
+302,302,2,2024-11-05,Below average. The pasta was dry and sauce too salty.
+303,303,3,2024-05-24,"Acceptable taste, but could be improved."
+304,304,1,2023-11-10,Terrible experience. Food was cold and lacked flavor.
+305,305,1,2024-07-07,Nothing was fresh. Left the restaurant feeling sick.
+306,306,4,2023-01-23,Food came out hot and delicious.
+307,307,4,2024-06-15,Food came out hot and delicious.
+308,308,3,2023-10-11,"Neutral feelings. Food was fine, not amazing."
+309,309,4,2023-10-27,Enjoyed the experience. Service was fast.
+310,310,5,2025-01-04,One of the best meals Ive had. Highly recommend.
+311,311,1,2023-09-02,Poor hygiene and undercooked food. Would not recommend.
+312,312,4,2024-01-11,Nice flavors and well-balanced seasoning.
+313,313,4,2023-03-28,Food came out hot and delicious.
+314,314,1,2025-03-17,Poor hygiene and undercooked food. Would not recommend.
+315,315,1,2025-01-18,Very disappointed. The dish was bland and overcooked.
+316,316,2,2023-01-14,Service was okay but food was a letdown.
+317,317,3,2024-02-13,"Acceptable taste, but could be improved."
+318,318,5,2024-04-08,Exceptional quality and taste. Will return soon.
+319,319,3,2024-08-30,"Neutral feelings. Food was fine, not amazing."
+320,320,2,2024-06-24,"The presentation was fine, but taste didnt follow through."
+321,321,1,2024-05-23,Terrible experience. Food was cold and lacked flavor.
+322,322,2,2024-09-21,Not great. Meal was served lukewarm and lacked seasoning.
+323,323,5,2023-10-06,Flawless service and delicious food. A+
+324,324,5,2023-01-11,Perfect experience. Great flavors and friendly staff.
+325,325,5,2024-06-05,One of the best meals Ive had. Highly recommend.
+326,326,2,2024-05-04,Below average. The pasta was dry and sauce too salty.
+327,327,3,2023-06-24,"Acceptable taste, but could be improved."
+328,328,3,2024-08-22,Average experience. Nothing stood out.
+329,329,1,2023-05-18,Nothing was fresh. Left the restaurant feeling sick.
+330,330,1,2025-03-08,Worst meal Ive had in a while. Ingredients tasted stale.
+331,331,3,2023-03-04,"Neutral feelings. Food was fine, not amazing."
+332,332,4,2024-03-23,Tasty and satisfying. Good portion size too.
+333,333,2,2025-04-06,Below average. The pasta was dry and sauce too salty.
+334,334,4,2023-04-21,Enjoyed the experience. Service was fast.
+335,335,4,2024-04-21,Tasty and satisfying. Good portion size too.
+336,336,2,2024-07-05,Service was okay but food was a letdown.
+337,337,3,2024-03-30,Average experience. Nothing stood out.
+338,338,5,2024-03-28,Flawless service and delicious food. A+
+339,339,3,2023-02-21,Average experience. Nothing stood out.
+340,340,5,2023-03-20,Exceptional quality and taste. Will return soon.
+341,341,2,2024-12-09,Below average. The pasta was dry and sauce too salty.
+342,342,1,2024-03-05,Nothing was fresh. Left the restaurant feeling sick.
+343,343,3,2023-06-04,"Some dishes were good, others were underwhelming."
+344,344,1,2023-07-04,Nothing was fresh. Left the restaurant feeling sick.
+345,345,5,2023-01-14,Perfect experience. Great flavors and friendly staff.
+346,346,3,2023-08-29,"It was okay. Decent flavor, but not memorable."
+347,347,1,2023-06-25,Nothing was fresh. Left the restaurant feeling sick.
+348,348,5,2023-09-09,Flawless service and delicious food. A+
+349,349,5,2024-10-19,Perfect experience. Great flavors and friendly staff.
+350,350,3,2024-06-03,"Neutral feelings. Food was fine, not amazing."
+351,351,4,2023-05-28,Enjoyed the experience. Service was fast.
+352,352,1,2024-09-23,Very disappointed. The dish was bland and overcooked.
+353,353,1,2024-03-01,Poor hygiene and undercooked food. Would not recommend.
+354,354,4,2024-01-29,Food came out hot and delicious.
+355,355,3,2024-04-13,"Some dishes were good, others were underwhelming."
+356,356,3,2024-02-28,"Acceptable taste, but could be improved."
+357,357,2,2023-10-18,Could have been better. Missing key ingredients.
+358,358,1,2023-11-06,Worst meal Ive had in a while. Ingredients tasted stale.
+359,359,3,2024-10-25,"Some dishes were good, others were underwhelming."
+360,360,5,2025-04-12,Exceptional quality and taste. Will return soon.
+361,361,2,2024-09-20,Service was okay but food was a letdown.
+362,362,4,2023-07-08,Very good! Would definitely try again.
+363,363,3,2024-11-20,"Neutral feelings. Food was fine, not amazing."
+364,364,1,2024-05-01,Terrible experience. Food was cold and lacked flavor.
+365,365,1,2023-10-07,Nothing was fresh. Left the restaurant feeling sick.
+366,366,4,2025-01-03,Tasty and satisfying. Good portion size too.
+367,367,3,2024-01-24,"Acceptable taste, but could be improved."
+368,368,1,2024-12-11,Very disappointed. The dish was bland and overcooked.
+369,369,4,2023-11-29,Tasty and satisfying. Good portion size too.
+370,370,3,2023-02-01,"Some dishes were good, others were underwhelming."
+371,371,3,2023-12-29,"Acceptable taste, but could be improved."
+372,372,5,2025-02-14,Absolutely amazing! Every bite was perfect.
+373,373,5,2024-03-24,Exceptional quality and taste. Will return soon.
+374,374,3,2024-05-29,"Some dishes were good, others were underwhelming."
+375,375,1,2025-01-13,Worst meal Ive had in a while. Ingredients tasted stale.
+376,376,1,2024-03-08,Poor hygiene and undercooked food. Would not recommend.
+377,377,1,2025-01-29,Nothing was fresh. Left the restaurant feeling sick.
+378,378,3,2023-11-29,"It was okay. Decent flavor, but not memorable."
+379,379,3,2024-07-17,"Neutral feelings. Food was fine, not amazing."
+380,380,5,2025-04-05,Perfect experience. Great flavors and friendly staff.
+381,381,4,2024-07-19,Enjoyed the experience. Service was fast.
+382,382,3,2023-08-14,"It was okay. Decent flavor, but not memorable."
+383,383,3,2023-10-03,"Neutral feelings. Food was fine, not amazing."
+384,384,4,2024-06-22,Very good! Would definitely try again.
+385,385,5,2025-02-21,Perfect experience. Great flavors and friendly staff.
+386,386,1,2025-04-08,Very disappointed. The dish was bland and overcooked.
+387,387,4,2023-09-21,Tasty and satisfying. Good portion size too.
+388,388,5,2023-11-13,Flawless service and delicious food. A+
+389,389,1,2023-07-02,Worst meal Ive had in a while. Ingredients tasted stale.
+390,390,2,2024-04-02,Could have been better. Missing key ingredients.
+391,391,3,2025-01-06,"It was okay. Decent flavor, but not memorable."
+392,392,3,2024-11-20,"It was okay. Decent flavor, but not memorable."
+393,393,4,2025-02-08,Tasty and satisfying. Good portion size too.
+394,394,4,2023-06-01,Nice flavors and well-balanced seasoning.
+395,395,2,2025-01-12,Below average. The pasta was dry and sauce too salty.
+396,396,2,2023-08-30,Service was okay but food was a letdown.
+397,397,1,2024-01-14,Worst meal Ive had in a while. Ingredients tasted stale.
+398,398,2,2023-03-29,Could have been better. Missing key ingredients.
+399,399,4,2023-12-25,Tasty and satisfying. Good portion size too.
+400,400,2,2023-09-16,Below average. The pasta was dry and sauce too salty.
+401,401,3,2024-12-29,"Some dishes were good, others were underwhelming."
+402,402,4,2024-11-26,Enjoyed the experience. Service was fast.
+403,403,5,2024-07-19,One of the best meals Ive had. Highly recommend.
+404,404,4,2023-01-10,Enjoyed the experience. Service was fast.
+405,405,5,2024-02-11,Perfect experience. Great flavors and friendly staff.
+406,406,1,2024-02-24,Very disappointed. The dish was bland and overcooked.
+407,407,4,2024-02-16,Very good! Would definitely try again.
+408,408,1,2023-05-13,Poor hygiene and undercooked food. Would not recommend.
+409,409,1,2023-12-08,Terrible experience. Food was cold and lacked flavor.
+410,410,5,2023-04-18,Exceptional quality and taste. Will return soon.
+411,411,5,2023-11-25,Exceptional quality and taste. Will return soon.
+412,412,2,2024-10-25,"The presentation was fine, but taste didnt follow through."
+413,413,3,2023-09-24,"Acceptable taste, but could be improved."
+414,414,2,2024-06-29,Not great. Meal was served lukewarm and lacked seasoning.
+415,415,4,2024-01-20,Food came out hot and delicious.
+416,416,3,2024-03-20,"It was okay. Decent flavor, but not memorable."
+417,417,5,2024-10-21,One of the best meals Ive had. Highly recommend.
+418,418,5,2023-02-07,Flawless service and delicious food. A+
+419,419,1,2023-08-13,Very disappointed. The dish was bland and overcooked.
+420,420,4,2023-10-31,Very good! Would definitely try again.
+421,421,1,2024-10-28,Terrible experience. Food was cold and lacked flavor.
+422,422,4,2023-02-18,Very good! Would definitely try again.
+423,423,5,2023-10-19,Perfect experience. Great flavors and friendly staff.
+424,424,2,2024-07-23,Service was okay but food was a letdown.
+425,425,2,2025-04-04,Not great. Meal was served lukewarm and lacked seasoning.
+426,426,2,2023-01-27,"The presentation was fine, but taste didnt follow through."
+427,427,5,2023-06-01,Perfect experience. Great flavors and friendly staff.
+428,428,4,2024-10-16,Tasty and satisfying. Good portion size too.
+429,429,5,2023-03-21,Exceptional quality and taste. Will return soon.
+430,430,2,2023-07-29,Below average. The pasta was dry and sauce too salty.
+431,431,1,2024-01-15,Worst meal Ive had in a while. Ingredients tasted stale.
+432,432,5,2023-08-31,Exceptional quality and taste. Will return soon.
+433,433,1,2023-02-07,Nothing was fresh. Left the restaurant feeling sick.
+434,434,5,2024-12-13,Absolutely amazing! Every bite was perfect.
+435,435,3,2023-03-24,"It was okay. Decent flavor, but not memorable."
+436,436,2,2024-12-16,"The presentation was fine, but taste didnt follow through."
+437,437,5,2024-06-18,Perfect experience. Great flavors and friendly staff.
+438,438,4,2024-11-08,Tasty and satisfying. Good portion size too.
+439,439,3,2023-02-21,"It was okay. Decent flavor, but not memorable."
+440,440,5,2023-02-14,Absolutely amazing! Every bite was perfect.
+441,441,5,2025-01-23,Flawless service and delicious food. A+
+442,442,3,2023-10-21,"Acceptable taste, but could be improved."
+443,443,2,2024-06-03,"The presentation was fine, but taste didnt follow through."
+444,444,2,2023-01-23,"The presentation was fine, but taste didnt follow through."
+445,445,5,2023-05-11,Exceptional quality and taste. Will return soon.
+446,446,3,2023-05-13,"It was okay. Decent flavor, but not memorable."
+447,447,4,2024-10-14,Tasty and satisfying. Good portion size too.
+448,448,5,2024-04-28,One of the best meals Ive had. Highly recommend.
+449,449,2,2024-11-07,Not great. Meal was served lukewarm and lacked seasoning.
+450,450,5,2023-11-05,Perfect experience. Great flavors and friendly staff.
+451,451,5,2023-03-31,Exceptional quality and taste. Will return soon.
+452,452,2,2025-02-27,Not great. Meal was served lukewarm and lacked seasoning.
+453,453,3,2023-10-03,"Some dishes were good, others were underwhelming."
+454,454,1,2024-01-10,Nothing was fresh. Left the restaurant feeling sick.
+455,455,4,2024-09-24,Tasty and satisfying. Good portion size too.
+456,456,4,2023-08-13,Enjoyed the experience. Service was fast.
+457,457,3,2025-04-06,Average experience. Nothing stood out.
+458,458,5,2024-11-28,Perfect experience. Great flavors and friendly staff.
+459,459,4,2024-03-01,Food came out hot and delicious.
+460,460,3,2024-12-06,Average experience. Nothing stood out.
+461,461,5,2023-04-30,Exceptional quality and taste. Will return soon.
+462,462,5,2023-03-27,Flawless service and delicious food. A+
+463,463,2,2023-05-07,Not great. Meal was served lukewarm and lacked seasoning.
+464,464,1,2025-04-11,Worst meal Ive had in a while. Ingredients tasted stale.
+465,465,4,2023-01-13,Tasty and satisfying. Good portion size too.
+466,466,3,2023-04-26,"Acceptable taste, but could be improved."
+467,467,5,2024-07-25,One of the best meals Ive had. Highly recommend.
+468,468,5,2024-09-28,Absolutely amazing! Every bite was perfect.
+469,469,3,2023-03-17,"Some dishes were good, others were underwhelming."
+470,470,4,2024-02-26,Very good! Would definitely try again.
+471,471,2,2024-09-12,"The presentation was fine, but taste didnt follow through."
+472,472,4,2023-05-26,Very good! Would definitely try again.
+473,473,2,2024-03-29,"The presentation was fine, but taste didnt follow through."
+474,474,1,2023-09-16,Poor hygiene and undercooked food. Would not recommend.
+475,475,3,2023-12-30,Average experience. Nothing stood out.
+476,476,4,2023-11-19,Very good! Would definitely try again.
+477,477,1,2023-03-02,Worst meal Ive had in a while. Ingredients tasted stale.
+478,478,4,2024-12-25,Very good! Would definitely try again.
+479,479,2,2023-04-05,Could have been better. Missing key ingredients.
+480,480,4,2023-03-04,Very good! Would definitely try again.
+481,481,5,2023-05-16,Perfect experience. Great flavors and friendly staff.
+482,482,3,2023-07-22,"Neutral feelings. Food was fine, not amazing."
+483,483,2,2024-07-29,Could have been better. Missing key ingredients.
+484,484,2,2023-12-26,Service was okay but food was a letdown.
+485,485,4,2023-09-21,Food came out hot and delicious.
+486,486,2,2024-02-08,Could have been better. Missing key ingredients.
+487,487,3,2024-03-19,"Neutral feelings. Food was fine, not amazing."
+488,488,5,2024-06-01,One of the best meals Ive had. Highly recommend.
+489,489,3,2024-10-04,"It was okay. Decent flavor, but not memorable."
+490,490,4,2024-07-05,Enjoyed the experience. Service was fast.
+491,491,3,2024-05-08,"Neutral feelings. Food was fine, not amazing."
+492,492,5,2023-11-06,Perfect experience. Great flavors and friendly staff.
+493,493,3,2023-01-26,"Neutral feelings. Food was fine, not amazing."
+494,494,1,2024-04-03,Very disappointed. The dish was bland and overcooked.
+495,495,1,2023-07-12,Very disappointed. The dish was bland and overcooked.
+496,496,4,2025-04-13,Nice flavors and well-balanced seasoning.
+497,497,4,2023-01-17,Food came out hot and delicious.
+498,498,1,2023-01-09,Poor hygiene and undercooked food. Would not recommend.
+499,499,1,2024-06-22,Nothing was fresh. Left the restaurant feeling sick.
+500,500,2,2023-07-17,Not great. Meal was served lukewarm and lacked seasoning.
+501,501,3,2024-05-20,"Acceptable taste, but could be improved."
+502,502,1,2023-12-10,Very disappointed. The dish was bland and overcooked.
+503,503,4,2023-03-24,Very good! Would definitely try again.
+504,504,3,2023-11-30,Average experience. Nothing stood out.
+505,505,2,2024-12-24,Service was okay but food was a letdown.
+506,506,2,2025-02-15,Not great. Meal was served lukewarm and lacked seasoning.
+507,507,2,2023-11-22,Not great. Meal was served lukewarm and lacked seasoning.
+508,508,5,2025-02-15,Flawless service and delicious food. A+
+509,509,4,2024-07-14,Food came out hot and delicious.
+510,510,3,2024-05-09,"Some dishes were good, others were underwhelming."
+511,511,5,2023-12-27,One of the best meals Ive had. Highly recommend.
+512,512,4,2023-08-06,Nice flavors and well-balanced seasoning.
+513,513,4,2024-11-06,Nice flavors and well-balanced seasoning.
+514,514,3,2023-06-18,"Some dishes were good, others were underwhelming."
+515,515,1,2023-10-24,Terrible experience. Food was cold and lacked flavor.
+516,516,1,2023-10-20,Nothing was fresh. Left the restaurant feeling sick.
+517,517,4,2024-02-12,Nice flavors and well-balanced seasoning.
+518,518,1,2024-11-23,Poor hygiene and undercooked food. Would not recommend.
+519,519,5,2024-12-14,Flawless service and delicious food. A+
+520,520,3,2024-05-31,"Some dishes were good, others were underwhelming."
+521,521,3,2024-01-25,"It was okay. Decent flavor, but not memorable."
+522,522,1,2024-07-10,Very disappointed. The dish was bland and overcooked.
+523,523,2,2024-12-01,Could have been better. Missing key ingredients.
+524,524,1,2023-11-09,Poor hygiene and undercooked food. Would not recommend.
+525,525,3,2024-03-02,"Neutral feelings. Food was fine, not amazing."
+526,526,3,2024-01-21,"Neutral feelings. Food was fine, not amazing."
+527,527,5,2023-12-06,Perfect experience. Great flavors and friendly staff.
+528,528,3,2023-06-09,"Acceptable taste, but could be improved."
+529,529,2,2023-07-16,"The presentation was fine, but taste didnt follow through."
+530,530,4,2024-03-14,Enjoyed the experience. Service was fast.
+531,531,2,2024-10-20,Below average. The pasta was dry and sauce too salty.
+532,532,1,2023-10-06,Worst meal Ive had in a while. Ingredients tasted stale.
+533,533,1,2024-03-24,Terrible experience. Food was cold and lacked flavor.
+534,534,1,2024-02-19,Very disappointed. The dish was bland and overcooked.
+535,535,2,2024-12-17,Below average. The pasta was dry and sauce too salty.
+536,536,3,2024-12-19,"It was okay. Decent flavor, but not memorable."
+537,537,3,2023-11-16,"Neutral feelings. Food was fine, not amazing."
+538,538,3,2024-09-29,"It was okay. Decent flavor, but not memorable."
+539,539,1,2023-12-12,Nothing was fresh. Left the restaurant feeling sick.
+540,540,2,2023-05-06,Service was okay but food was a letdown.
+541,541,1,2024-02-28,Terrible experience. Food was cold and lacked flavor.
+542,542,1,2024-08-14,Terrible experience. Food was cold and lacked flavor.
+543,543,2,2024-04-28,Not great. Meal was served lukewarm and lacked seasoning.
+544,544,3,2023-04-15,"Neutral feelings. Food was fine, not amazing."
+545,545,2,2025-02-07,"The presentation was fine, but taste didnt follow through."
+546,546,5,2024-03-15,Absolutely amazing! Every bite was perfect.
+547,547,2,2023-02-07,Below average. The pasta was dry and sauce too salty.
+548,548,4,2023-03-24,Food came out hot and delicious.
+549,549,5,2023-05-02,Exceptional quality and taste. Will return soon.
+550,550,4,2023-06-08,Nice flavors and well-balanced seasoning.
+551,551,2,2023-11-10,Below average. The pasta was dry and sauce too salty.
+552,552,2,2023-05-27,"The presentation was fine, but taste didnt follow through."
+553,553,5,2024-01-10,Exceptional quality and taste. Will return soon.
+554,554,1,2024-06-02,Nothing was fresh. Left the restaurant feeling sick.
+555,555,3,2024-06-14,"Some dishes were good, others were underwhelming."
+556,556,4,2024-11-06,Tasty and satisfying. Good portion size too.
+557,557,3,2023-01-18,"It was okay. Decent flavor, but not memorable."
+558,558,1,2023-12-31,Poor hygiene and undercooked food. Would not recommend.
+559,559,4,2024-08-09,Very good! Would definitely try again.
+560,560,3,2023-04-06,"It was okay. Decent flavor, but not memorable."
+561,561,2,2024-06-02,Service was okay but food was a letdown.
+562,562,2,2023-01-02,Service was okay but food was a letdown.
+563,563,5,2024-05-08,Perfect experience. Great flavors and friendly staff.
+564,564,5,2024-12-02,One of the best meals Ive had. Highly recommend.
+565,565,5,2023-04-05,Perfect experience. Great flavors and friendly staff.
+566,566,4,2023-12-26,Enjoyed the experience. Service was fast.
+567,567,4,2023-08-30,Nice flavors and well-balanced seasoning.
+568,568,1,2025-01-23,Nothing was fresh. Left the restaurant feeling sick.
+569,569,2,2023-10-11,Not great. Meal was served lukewarm and lacked seasoning.
+570,570,1,2023-08-10,Terrible experience. Food was cold and lacked flavor.
+571,571,5,2023-02-22,Absolutely amazing! Every bite was perfect.
+572,572,1,2024-07-24,Nothing was fresh. Left the restaurant feeling sick.
+573,573,3,2024-01-15,"Acceptable taste, but could be improved."
+574,574,4,2024-07-07,Very good! Would definitely try again.
+575,575,2,2024-05-08,Not great. Meal was served lukewarm and lacked seasoning.
+576,576,3,2024-09-07,"Neutral feelings. Food was fine, not amazing."
+577,577,5,2024-03-30,Flawless service and delicious food. A+
+578,578,4,2024-05-01,Enjoyed the experience. Service was fast.
+579,579,1,2024-08-29,Poor hygiene and undercooked food. Would not recommend.
+580,580,1,2023-10-22,Nothing was fresh. Left the restaurant feeling sick.
+581,581,5,2023-06-21,One of the best meals Ive had. Highly recommend.
+582,582,1,2024-03-02,Very disappointed. The dish was bland and overcooked.
+583,583,3,2024-01-13,"Neutral feelings. Food was fine, not amazing."
+584,584,4,2023-02-19,Nice flavors and well-balanced seasoning.
+585,585,5,2025-03-17,Absolutely amazing! Every bite was perfect.
+586,586,1,2023-03-20,Very disappointed. The dish was bland and overcooked.
+587,587,4,2024-06-30,Tasty and satisfying. Good portion size too.
+588,588,3,2023-09-09,"It was okay. Decent flavor, but not memorable."
+589,589,4,2023-10-07,Nice flavors and well-balanced seasoning.
+590,590,1,2024-02-12,Terrible experience. Food was cold and lacked flavor.
+591,591,1,2024-11-27,Nothing was fresh. Left the restaurant feeling sick.
+592,592,5,2024-07-20,Perfect experience. Great flavors and friendly staff.
+593,593,1,2023-05-13,Very disappointed. The dish was bland and overcooked.
+594,594,1,2023-06-24,Worst meal Ive had in a while. Ingredients tasted stale.
+595,595,3,2023-01-03,"Neutral feelings. Food was fine, not amazing."
+596,596,3,2024-02-12,"Neutral feelings. Food was fine, not amazing."
+597,597,4,2024-10-27,Very good! Would definitely try again.
+598,598,2,2024-08-24,"The presentation was fine, but taste didnt follow through."
+599,599,1,2023-03-07,Poor hygiene and undercooked food. Would not recommend.
+600,600,4,2025-03-17,Tasty and satisfying. Good portion size too.
+601,601,5,2024-02-27,Exceptional quality and taste. Will return soon.
+602,602,2,2024-08-14,Service was okay but food was a letdown.
+603,603,4,2025-01-28,Very good! Would definitely try again.
+604,604,1,2023-06-07,Terrible experience. Food was cold and lacked flavor.
+605,605,3,2025-04-04,Average experience. Nothing stood out.
+606,606,3,2023-08-30,"It was okay. Decent flavor, but not memorable."
+607,607,1,2023-09-12,Very disappointed. The dish was bland and overcooked.
+608,608,2,2025-04-12,Service was okay but food was a letdown.
+609,609,1,2023-05-23,Very disappointed. The dish was bland and overcooked.
+610,610,4,2023-03-01,Food came out hot and delicious.
+611,611,2,2024-07-18,Could have been better. Missing key ingredients.
+612,612,4,2023-10-02,Very good! Would definitely try again.
+613,613,4,2023-06-10,Very good! Would definitely try again.
+614,614,4,2024-02-11,Food came out hot and delicious.
+615,615,4,2024-10-13,Enjoyed the experience. Service was fast.
+616,616,3,2023-03-03,"It was okay. Decent flavor, but not memorable."
+617,617,1,2023-01-07,Poor hygiene and undercooked food. Would not recommend.
+618,618,1,2024-01-28,Nothing was fresh. Left the restaurant feeling sick.
+619,619,1,2023-12-19,Terrible experience. Food was cold and lacked flavor.
+620,620,2,2025-03-03,Could have been better. Missing key ingredients.
+621,621,3,2023-11-12,"Some dishes were good, others were underwhelming."
+622,622,4,2024-03-13,Enjoyed the experience. Service was fast.
+623,623,4,2024-04-13,Very good! Would definitely try again.
+624,624,3,2024-01-23,"Neutral feelings. Food was fine, not amazing."
+625,625,4,2023-01-22,Nice flavors and well-balanced seasoning.
+626,626,5,2023-12-05,Flawless service and delicious food. A+
+627,627,5,2025-01-06,Exceptional quality and taste. Will return soon.
+628,628,1,2024-06-23,Worst meal Ive had in a while. Ingredients tasted stale.
+629,629,5,2024-01-01,One of the best meals Ive had. Highly recommend.
+630,630,1,2023-05-12,Nothing was fresh. Left the restaurant feeling sick.
+631,631,4,2024-11-07,Tasty and satisfying. Good portion size too.
+632,632,3,2024-12-31,Average experience. Nothing stood out.
+633,633,5,2024-04-03,Exceptional quality and taste. Will return soon.
+634,634,1,2024-05-06,Very disappointed. The dish was bland and overcooked.
+635,635,4,2023-03-26,Nice flavors and well-balanced seasoning.
+636,636,5,2024-07-19,Absolutely amazing! Every bite was perfect.
+637,637,2,2023-05-16,Not great. Meal was served lukewarm and lacked seasoning.
+638,638,1,2023-09-12,Worst meal Ive had in a while. Ingredients tasted stale.
+639,639,1,2025-01-01,Worst meal Ive had in a while. Ingredients tasted stale.
+640,640,5,2024-06-07,Flawless service and delicious food. A+
+641,641,2,2023-11-04,Below average. The pasta was dry and sauce too salty.
+642,642,2,2023-06-08,Below average. The pasta was dry and sauce too salty.
+643,643,4,2023-09-22,Tasty and satisfying. Good portion size too.
+644,644,1,2025-01-08,Nothing was fresh. Left the restaurant feeling sick.
+645,645,4,2024-09-15,Tasty and satisfying. Good portion size too.
+646,646,5,2025-03-14,Flawless service and delicious food. A+
+647,647,1,2023-08-10,Terrible experience. Food was cold and lacked flavor.
+648,648,4,2023-05-10,Very good! Would definitely try again.
+649,649,4,2024-11-27,Enjoyed the experience. Service was fast.
+650,650,5,2023-08-12,Exceptional quality and taste. Will return soon.
+651,651,2,2024-06-14,"The presentation was fine, but taste didnt follow through."
+652,652,1,2024-07-18,Terrible experience. Food was cold and lacked flavor.
+653,653,2,2023-05-07,Not great. Meal was served lukewarm and lacked seasoning.
+654,654,4,2024-01-04,Very good! Would definitely try again.
+655,655,4,2023-03-20,Enjoyed the experience. Service was fast.
+656,656,4,2023-10-13,Very good! Would definitely try again.
+657,657,4,2023-11-16,Enjoyed the experience. Service was fast.
+658,658,1,2023-03-22,Worst meal Ive had in a while. Ingredients tasted stale.
+659,659,5,2024-10-25,Flawless service and delicious food. A+
+660,660,4,2024-01-23,Nice flavors and well-balanced seasoning.
+661,661,3,2023-04-30,"Some dishes were good, others were underwhelming."
+662,662,3,2024-04-23,Average experience. Nothing stood out.
+663,663,3,2023-08-20,"Acceptable taste, but could be improved."
+664,664,3,2023-04-02,"Neutral feelings. Food was fine, not amazing."
+665,665,2,2024-07-03,Not great. Meal was served lukewarm and lacked seasoning.
+666,666,3,2023-04-30,"It was okay. Decent flavor, but not memorable."
+667,667,3,2024-01-19,Average experience. Nothing stood out.
+668,668,2,2023-10-23,Could have been better. Missing key ingredients.
+669,669,4,2023-10-11,Very good! Would definitely try again.
+670,670,5,2024-08-11,Perfect experience. Great flavors and friendly staff.
+671,671,2,2024-07-29,Not great. Meal was served lukewarm and lacked seasoning.
+672,672,1,2024-05-27,Poor hygiene and undercooked food. Would not recommend.
+673,673,2,2025-03-15,"The presentation was fine, but taste didnt follow through."
+674,674,3,2023-09-01,"It was okay. Decent flavor, but not memorable."
+675,675,2,2024-12-23,Not great. Meal was served lukewarm and lacked seasoning.
+676,676,3,2024-02-26,"Some dishes were good, others were underwhelming."
+677,677,1,2024-07-07,Terrible experience. Food was cold and lacked flavor.
+678,678,2,2023-08-25,Not great. Meal was served lukewarm and lacked seasoning.
+679,679,1,2024-06-28,Poor hygiene and undercooked food. Would not recommend.
+680,680,2,2023-01-15,Not great. Meal was served lukewarm and lacked seasoning.
+681,681,2,2023-01-03,Not great. Meal was served lukewarm and lacked seasoning.
+682,682,1,2024-10-16,Very disappointed. The dish was bland and overcooked.
+683,683,4,2025-03-25,Food came out hot and delicious.
+684,684,1,2023-11-29,Very disappointed. The dish was bland and overcooked.
+685,685,4,2023-08-28,Very good! Would definitely try again.
+686,686,4,2025-03-01,Food came out hot and delicious.
+687,687,5,2023-01-05,Exceptional quality and taste. Will return soon.
+688,688,1,2024-06-18,Nothing was fresh. Left the restaurant feeling sick.
+689,689,1,2023-09-24,Very disappointed. The dish was bland and overcooked.
+690,690,1,2023-10-02,Poor hygiene and undercooked food. Would not recommend.
+691,691,5,2023-01-05,Perfect experience. Great flavors and friendly staff.
+692,692,4,2023-06-30,Food came out hot and delicious.
+693,693,5,2023-11-17,Exceptional quality and taste. Will return soon.
+694,694,2,2023-08-26,Below average. The pasta was dry and sauce too salty.
+695,695,5,2024-03-31,Flawless service and delicious food. A+
+696,696,4,2023-10-17,Very good! Would definitely try again.
+697,697,1,2023-03-13,Terrible experience. Food was cold and lacked flavor.
+698,698,5,2023-01-20,One of the best meals Ive had. Highly recommend.
+699,699,4,2023-06-17,Nice flavors and well-balanced seasoning.
+700,700,4,2023-12-22,Food came out hot and delicious.
+701,701,5,2024-11-19,Flawless service and delicious food. A+
+702,702,4,2024-01-07,Tasty and satisfying. Good portion size too.
+703,703,5,2023-11-04,Flawless service and delicious food. A+
+704,704,1,2023-11-18,Nothing was fresh. Left the restaurant feeling sick.
+705,705,3,2024-12-31,"Acceptable taste, but could be improved."
+706,706,5,2024-03-14,Exceptional quality and taste. Will return soon.
+707,707,1,2024-11-09,Worst meal Ive had in a while. Ingredients tasted stale.
+708,708,3,2024-12-16,"Acceptable taste, but could be improved."
+709,709,1,2025-01-05,Nothing was fresh. Left the restaurant feeling sick.
+710,710,2,2025-04-06,Could have been better. Missing key ingredients.
+711,711,3,2025-03-27,"Some dishes were good, others were underwhelming."
+712,712,2,2023-11-29,Below average. The pasta was dry and sauce too salty.
+713,713,5,2024-04-19,One of the best meals Ive had. Highly recommend.
+714,714,5,2023-08-26,Perfect experience. Great flavors and friendly staff.
+715,715,2,2023-06-09,Service was okay but food was a letdown.
+716,716,5,2023-03-28,Absolutely amazing! Every bite was perfect.
+717,717,2,2024-06-18,Below average. The pasta was dry and sauce too salty.
+718,718,5,2023-11-21,Flawless service and delicious food. A+
+719,719,4,2023-08-15,Food came out hot and delicious.
+720,720,2,2024-05-26,Below average. The pasta was dry and sauce too salty.
+721,721,5,2024-10-29,Perfect experience. Great flavors and friendly staff.
+722,722,3,2024-02-13,Average experience. Nothing stood out.
+723,723,2,2023-10-22,Could have been better. Missing key ingredients.
+724,724,2,2023-04-30,Could have been better. Missing key ingredients.
+725,725,4,2023-11-04,Food came out hot and delicious.
+726,726,2,2024-11-13,Not great. Meal was served lukewarm and lacked seasoning.
+727,727,2,2024-06-21,"The presentation was fine, but taste didnt follow through."
+728,728,3,2023-02-11,"Some dishes were good, others were underwhelming."
+729,729,1,2024-09-20,Nothing was fresh. Left the restaurant feeling sick.
+730,730,5,2023-09-06,Perfect experience. Great flavors and friendly staff.
+731,731,5,2024-07-21,Flawless service and delicious food. A+
+732,732,4,2023-05-30,Tasty and satisfying. Good portion size too.
+733,733,3,2023-01-31,"Neutral feelings. Food was fine, not amazing."
+734,734,2,2024-05-26,Could have been better. Missing key ingredients.
+735,735,2,2024-04-01,Service was okay but food was a letdown.
+736,736,4,2025-03-28,Nice flavors and well-balanced seasoning.
+737,737,1,2023-09-14,Worst meal Ive had in a while. Ingredients tasted stale.
+738,738,5,2023-09-25,Exceptional quality and taste. Will return soon.
+739,739,1,2024-01-12,Worst meal Ive had in a while. Ingredients tasted stale.
+740,740,4,2023-01-30,Very good! Would definitely try again.
+741,741,3,2023-04-17,Average experience. Nothing stood out.
+742,742,4,2024-10-23,Tasty and satisfying. Good portion size too.
+743,743,5,2024-09-18,One of the best meals Ive had. Highly recommend.
+744,744,5,2024-11-13,Flawless service and delicious food. A+
+745,745,2,2024-06-03,Could have been better. Missing key ingredients.
+746,746,1,2023-03-04,Terrible experience. Food was cold and lacked flavor.
+747,747,5,2023-11-12,Flawless service and delicious food. A+
+748,748,2,2024-09-23,Service was okay but food was a letdown.
+749,749,2,2025-03-29,Not great. Meal was served lukewarm and lacked seasoning.
+750,750,4,2023-04-24,Very good! Would definitely try again.
+751,751,2,2023-05-30,Below average. The pasta was dry and sauce too salty.
+752,752,1,2024-02-08,Very disappointed. The dish was bland and overcooked.
+753,753,5,2025-01-31,Perfect experience. Great flavors and friendly staff.
+754,754,4,2024-07-16,Enjoyed the experience. Service was fast.
+755,755,4,2023-07-27,Tasty and satisfying. Good portion size too.
+756,756,4,2023-12-21,Tasty and satisfying. Good portion size too.
+757,757,1,2023-03-29,Nothing was fresh. Left the restaurant feeling sick.
+758,758,4,2023-12-27,Food came out hot and delicious.
+759,759,4,2025-01-15,Food came out hot and delicious.
+760,760,4,2025-01-30,Nice flavors and well-balanced seasoning.
+761,761,1,2023-04-19,Terrible experience. Food was cold and lacked flavor.
+762,762,3,2024-11-20,Average experience. Nothing stood out.
+763,763,5,2024-05-02,Absolutely amazing! Every bite was perfect.
+764,764,3,2025-03-18,"Acceptable taste, but could be improved."
+765,765,4,2024-01-17,Food came out hot and delicious.
+766,766,2,2023-12-11,"The presentation was fine, but taste didnt follow through."
+767,767,3,2025-03-22,"It was okay. Decent flavor, but not memorable."
+768,768,2,2024-03-17,Service was okay but food was a letdown.
+769,769,4,2024-03-06,Food came out hot and delicious.
+770,770,4,2023-07-02,Very good! Would definitely try again.
+771,771,1,2023-12-22,Terrible experience. Food was cold and lacked flavor.
+772,772,2,2025-04-02,Below average. The pasta was dry and sauce too salty.
+773,773,5,2023-05-16,One of the best meals Ive had. Highly recommend.
+774,774,1,2025-01-16,Nothing was fresh. Left the restaurant feeling sick.
+775,775,4,2024-01-31,Enjoyed the experience. Service was fast.
+776,776,1,2023-02-08,Poor hygiene and undercooked food. Would not recommend.
+777,777,2,2023-09-29,Below average. The pasta was dry and sauce too salty.
+778,778,3,2023-03-17,"Neutral feelings. Food was fine, not amazing."
+779,779,2,2023-07-24,"The presentation was fine, but taste didnt follow through."
+780,780,2,2024-11-19,Could have been better. Missing key ingredients.
+781,781,3,2024-04-18,"It was okay. Decent flavor, but not memorable."
+782,782,5,2024-11-14,Absolutely amazing! Every bite was perfect.
+783,783,4,2023-01-29,Food came out hot and delicious.
+784,784,5,2024-10-10,One of the best meals Ive had. Highly recommend.
+785,785,1,2024-01-25,Nothing was fresh. Left the restaurant feeling sick.
+786,786,1,2024-02-18,Nothing was fresh. Left the restaurant feeling sick.
+787,787,5,2023-01-13,Perfect experience. Great flavors and friendly staff.
+788,788,1,2023-08-06,Very disappointed. The dish was bland and overcooked.
+789,789,1,2024-06-21,Very disappointed. The dish was bland and overcooked.
+790,790,1,2025-03-06,Nothing was fresh. Left the restaurant feeling sick.
+791,791,1,2024-10-06,Worst meal Ive had in a while. Ingredients tasted stale.
+792,792,2,2023-01-12,Below average. The pasta was dry and sauce too salty.
+793,793,1,2023-09-03,Worst meal Ive had in a while. Ingredients tasted stale.
+794,794,5,2024-07-15,Absolutely amazing! Every bite was perfect.
+795,795,2,2023-08-11,Service was okay but food was a letdown.
+796,796,4,2024-02-17,Food came out hot and delicious.
+797,797,5,2024-10-21,Flawless service and delicious food. A+
+798,798,3,2023-09-19,"Acceptable taste, but could be improved."
+799,799,3,2024-03-08,"Some dishes were good, others were underwhelming."
+800,800,4,2024-08-29,Very good! Would definitely try again.
+801,801,2,2023-11-28,Not great. Meal was served lukewarm and lacked seasoning.
+802,802,4,2023-01-31,Food came out hot and delicious.
+803,803,4,2024-03-24,Enjoyed the experience. Service was fast.
+804,804,5,2024-08-07,Exceptional quality and taste. Will return soon.
+805,805,1,2023-03-12,Worst meal Ive had in a while. Ingredients tasted stale.
+806,806,5,2023-05-04,One of the best meals Ive had. Highly recommend.
+807,807,4,2024-05-09,Nice flavors and well-balanced seasoning.
+808,808,3,2024-02-27,Average experience. Nothing stood out.
+809,809,1,2023-09-03,Worst meal Ive had in a while. Ingredients tasted stale.
+810,810,4,2024-09-17,Nice flavors and well-balanced seasoning.
+811,811,2,2023-05-30,Below average. The pasta was dry and sauce too salty.
+812,812,1,2024-10-05,Worst meal Ive had in a while. Ingredients tasted stale.
+813,813,5,2024-04-23,Exceptional quality and taste. Will return soon.
+814,814,3,2023-07-27,Average experience. Nothing stood out.
+815,815,5,2023-04-27,One of the best meals Ive had. Highly recommend.
+816,816,1,2025-01-24,Nothing was fresh. Left the restaurant feeling sick.
+817,817,4,2023-12-01,Food came out hot and delicious.
+818,818,5,2024-08-22,One of the best meals Ive had. Highly recommend.
+819,819,5,2024-08-10,Exceptional quality and taste. Will return soon.
+820,820,3,2024-11-01,"Acceptable taste, but could be improved."
+821,821,1,2024-07-13,Worst meal Ive had in a while. Ingredients tasted stale.
+822,822,2,2025-03-24,Could have been better. Missing key ingredients.
+823,823,3,2023-09-11,"Some dishes were good, others were underwhelming."
+824,824,2,2023-04-05,"The presentation was fine, but taste didnt follow through."
+825,825,3,2024-06-01,"Neutral feelings. Food was fine, not amazing."
+826,826,4,2025-01-06,Food came out hot and delicious.
+827,827,5,2024-10-20,One of the best meals Ive had. Highly recommend.
+828,828,3,2023-06-25,Average experience. Nothing stood out.
+829,829,4,2024-08-02,Very good! Would definitely try again.
+830,830,4,2023-12-20,Very good! Would definitely try again.
+831,831,2,2024-10-22,Below average. The pasta was dry and sauce too salty.
+832,832,4,2024-04-29,Tasty and satisfying. Good portion size too.
+833,833,1,2023-03-22,Nothing was fresh. Left the restaurant feeling sick.
+834,834,5,2024-05-23,Flawless service and delicious food. A+
+835,835,4,2023-04-07,Nice flavors and well-balanced seasoning.
+836,836,3,2023-07-06,"It was okay. Decent flavor, but not memorable."
+837,837,3,2025-03-05,Average experience. Nothing stood out.
+838,838,1,2023-03-09,Poor hygiene and undercooked food. Would not recommend.
+839,839,5,2024-01-26,One of the best meals Ive had. Highly recommend.
+840,840,2,2025-01-09,Could have been better. Missing key ingredients.
+841,841,5,2023-01-17,Flawless service and delicious food. A+
+842,842,5,2023-09-01,Exceptional quality and taste. Will return soon.
+843,843,3,2023-12-28,"It was okay. Decent flavor, but not memorable."
+844,844,1,2023-05-29,Terrible experience. Food was cold and lacked flavor.
+845,845,5,2024-02-28,Perfect experience. Great flavors and friendly staff.
+846,846,4,2023-05-12,Tasty and satisfying. Good portion size too.
+847,847,3,2025-02-14,"Neutral feelings. Food was fine, not amazing."
+848,848,5,2024-02-05,Perfect experience. Great flavors and friendly staff.
+849,849,1,2023-03-16,Terrible experience. Food was cold and lacked flavor.
+850,850,5,2023-09-09,One of the best meals Ive had. Highly recommend.
+851,851,2,2024-10-25,"The presentation was fine, but taste didnt follow through."
+852,852,5,2024-11-20,Absolutely amazing! Every bite was perfect.
+853,853,1,2025-03-23,Very disappointed. The dish was bland and overcooked.
+854,854,4,2024-07-25,Enjoyed the experience. Service was fast.
+855,855,3,2023-01-05,"Some dishes were good, others were underwhelming."
+856,856,5,2024-04-03,Perfect experience. Great flavors and friendly staff.
+857,857,5,2023-05-09,Flawless service and delicious food. A+
+858,858,5,2024-09-06,One of the best meals Ive had. Highly recommend.
+859,859,5,2024-09-14,Absolutely amazing! Every bite was perfect.
+860,860,2,2024-06-21,Could have been better. Missing key ingredients.
+861,861,5,2023-08-23,Exceptional quality and taste. Will return soon.
+862,862,2,2025-04-17,Not great. Meal was served lukewarm and lacked seasoning.
+863,863,5,2025-04-03,Exceptional quality and taste. Will return soon.
+864,864,5,2024-04-09,Absolutely amazing! Every bite was perfect.
+865,865,3,2024-12-27,"Neutral feelings. Food was fine, not amazing."
+866,866,1,2023-12-24,Nothing was fresh. Left the restaurant feeling sick.
+867,867,2,2024-03-25,Not great. Meal was served lukewarm and lacked seasoning.
+868,868,3,2025-02-23,"Neutral feelings. Food was fine, not amazing."
+869,869,1,2024-01-16,Very disappointed. The dish was bland and overcooked.
+870,870,2,2023-10-07,Could have been better. Missing key ingredients.
+871,871,5,2025-03-22,Perfect experience. Great flavors and friendly staff.
+872,872,2,2023-12-04,Not great. Meal was served lukewarm and lacked seasoning.
+873,873,3,2024-07-06,"Some dishes were good, others were underwhelming."
+874,874,5,2023-01-28,Flawless service and delicious food. A+
+875,875,2,2024-06-10,Below average. The pasta was dry and sauce too salty.
+876,876,2,2023-06-08,Could have been better. Missing key ingredients.
+877,877,5,2023-11-01,One of the best meals Ive had. Highly recommend.
+878,878,5,2023-05-12,Perfect experience. Great flavors and friendly staff.
+879,879,3,2024-01-19,"Neutral feelings. Food was fine, not amazing."
+880,880,4,2023-08-10,Tasty and satisfying. Good portion size too.
+881,881,2,2023-11-30,Below average. The pasta was dry and sauce too salty.
+882,882,2,2023-08-02,Could have been better. Missing key ingredients.
+883,883,3,2023-02-07,"Neutral feelings. Food was fine, not amazing."
+884,884,1,2024-06-28,Nothing was fresh. Left the restaurant feeling sick.
+885,885,4,2023-06-03,Food came out hot and delicious.
+886,886,4,2024-05-20,Very good! Would definitely try again.
+887,887,1,2023-01-16,Poor hygiene and undercooked food. Would not recommend.
+888,888,2,2023-01-12,Service was okay but food was a letdown.
+889,889,5,2025-01-17,Perfect experience. Great flavors and friendly staff.
+890,890,5,2023-09-29,Absolutely amazing! Every bite was perfect.
+891,891,1,2023-08-14,Worst meal Ive had in a while. Ingredients tasted stale.
+892,892,5,2023-07-27,Absolutely amazing! Every bite was perfect.
+893,893,2,2023-07-20,Could have been better. Missing key ingredients.
+894,894,4,2023-04-15,Nice flavors and well-balanced seasoning.
+895,895,1,2024-07-29,Very disappointed. The dish was bland and overcooked.
+896,896,2,2024-05-23,"The presentation was fine, but taste didnt follow through."
+897,897,5,2023-10-01,Perfect experience. Great flavors and friendly staff.
+898,898,3,2024-07-23,"It was okay. Decent flavor, but not memorable."
+899,899,2,2023-04-25,Service was okay but food was a letdown.
+900,900,5,2023-10-03,Perfect experience. Great flavors and friendly staff.
+901,901,3,2024-10-27,"Neutral feelings. Food was fine, not amazing."
+902,902,4,2024-05-14,Nice flavors and well-balanced seasoning.
+903,903,4,2023-09-04,Food came out hot and delicious.
+904,904,3,2023-10-02,"Neutral feelings. Food was fine, not amazing."
+905,905,5,2024-12-27,One of the best meals Ive had. Highly recommend.
+906,906,4,2023-10-29,Tasty and satisfying. Good portion size too.
+907,907,2,2025-02-27,Not great. Meal was served lukewarm and lacked seasoning.
+908,908,4,2024-03-18,Tasty and satisfying. Good portion size too.
+909,909,4,2023-09-04,Tasty and satisfying. Good portion size too.
+910,910,1,2024-05-12,Very disappointed. The dish was bland and overcooked.
+911,911,4,2023-04-19,Tasty and satisfying. Good portion size too.
+912,912,1,2023-09-18,Terrible experience. Food was cold and lacked flavor.
+913,913,4,2024-03-23,Very good! Would definitely try again.
+914,914,3,2025-01-12,"It was okay. Decent flavor, but not memorable."
+915,915,5,2024-06-06,Exceptional quality and taste. Will return soon.
+916,916,1,2023-03-25,Very disappointed. The dish was bland and overcooked.
+917,917,5,2023-08-20,One of the best meals Ive had. Highly recommend.
+918,918,3,2024-02-15,"Neutral feelings. Food was fine, not amazing."
+919,919,4,2024-06-06,Very good! Would definitely try again.
+920,920,1,2024-07-04,Very disappointed. The dish was bland and overcooked.
+921,921,3,2023-03-20,Average experience. Nothing stood out.
+922,922,3,2023-08-16,"Acceptable taste, but could be improved."
+923,923,4,2024-02-27,Food came out hot and delicious.
+924,924,3,2024-08-02,"Some dishes were good, others were underwhelming."
+925,925,1,2023-12-13,Worst meal Ive had in a while. Ingredients tasted stale.
+926,926,2,2023-06-13,Below average. The pasta was dry and sauce too salty.
+927,927,3,2025-02-14,"It was okay. Decent flavor, but not memorable."
+928,928,4,2024-11-25,Very good! Would definitely try again.
+929,929,1,2025-03-23,Nothing was fresh. Left the restaurant feeling sick.
+930,930,5,2023-09-04,Flawless service and delicious food. A+
+931,931,2,2024-02-12,Not great. Meal was served lukewarm and lacked seasoning.
+932,932,5,2023-11-04,Exceptional quality and taste. Will return soon.
+933,933,1,2023-01-17,Poor hygiene and undercooked food. Would not recommend.
+934,934,1,2025-02-08,Terrible experience. Food was cold and lacked flavor.
+935,935,4,2025-03-29,Enjoyed the experience. Service was fast.
+936,936,3,2024-04-27,"Some dishes were good, others were underwhelming."
+937,937,4,2023-06-17,Very good! Would definitely try again.
+938,938,2,2025-01-20,"The presentation was fine, but taste didnt follow through."
+939,939,2,2024-12-26,Below average. The pasta was dry and sauce too salty.
+940,940,3,2023-09-26,"Acceptable taste, but could be improved."
+941,941,2,2025-01-31,"The presentation was fine, but taste didnt follow through."
+942,942,4,2025-01-26,Enjoyed the experience. Service was fast.
+943,943,3,2025-01-01,Average experience. Nothing stood out.
+944,944,5,2024-02-27,Flawless service and delicious food. A+
+945,945,1,2024-12-21,Worst meal Ive had in a while. Ingredients tasted stale.
+946,946,2,2025-01-07,"The presentation was fine, but taste didnt follow through."
+947,947,4,2023-09-17,Food came out hot and delicious.
+948,948,5,2024-05-30,Perfect experience. Great flavors and friendly staff.
+949,949,3,2025-03-29,"It was okay. Decent flavor, but not memorable."
+950,950,5,2025-01-04,Perfect experience. Great flavors and friendly staff.
+951,951,2,2023-05-11,Could have been better. Missing key ingredients.
+952,952,5,2023-03-17,Flawless service and delicious food. A+
+953,953,1,2024-04-27,Nothing was fresh. Left the restaurant feeling sick.
+954,954,4,2023-03-01,Food came out hot and delicious.
+955,955,4,2024-04-27,Enjoyed the experience. Service was fast.
+956,956,4,2023-01-24,Tasty and satisfying. Good portion size too.
+957,957,3,2025-02-09,"Acceptable taste, but could be improved."
+958,958,1,2025-02-17,Terrible experience. Food was cold and lacked flavor.
+959,959,1,2024-09-11,Very disappointed. The dish was bland and overcooked.
+960,960,4,2023-10-31,Enjoyed the experience. Service was fast.
+961,961,1,2025-01-11,Worst meal Ive had in a while. Ingredients tasted stale.
+962,962,1,2024-07-11,Very disappointed. The dish was bland and overcooked.
+963,963,3,2023-09-21,Average experience. Nothing stood out.
+964,964,5,2024-05-08,Perfect experience. Great flavors and friendly staff.
+965,965,5,2023-01-15,Exceptional quality and taste. Will return soon.
+966,966,4,2023-11-07,Enjoyed the experience. Service was fast.
+967,967,5,2024-01-14,Absolutely amazing! Every bite was perfect.
+968,968,3,2025-03-29,"Neutral feelings. Food was fine, not amazing."
+969,969,3,2024-01-28,"It was okay. Decent flavor, but not memorable."
+970,970,3,2023-02-23,"It was okay. Decent flavor, but not memorable."
+971,971,5,2024-12-11,Perfect experience. Great flavors and friendly staff.
+972,972,5,2023-03-21,Absolutely amazing! Every bite was perfect.
+973,973,5,2023-08-10,Perfect experience. Great flavors and friendly staff.
+974,974,4,2024-06-06,Tasty and satisfying. Good portion size too.
+975,975,5,2023-06-28,One of the best meals Ive had. Highly recommend.
+976,976,5,2024-02-10,Flawless service and delicious food. A+
+977,977,1,2025-01-08,Worst meal Ive had in a while. Ingredients tasted stale.
+978,978,1,2024-06-08,Very disappointed. The dish was bland and overcooked.
+979,979,5,2024-12-23,One of the best meals Ive had. Highly recommend.
+980,980,4,2024-06-06,Food came out hot and delicious.
+981,981,1,2023-08-11,Very disappointed. The dish was bland and overcooked.
+982,982,2,2023-01-26,Below average. The pasta was dry and sauce too salty.
+983,983,3,2023-02-07,"Acceptable taste, but could be improved."
+984,984,5,2024-03-21,Absolutely amazing! Every bite was perfect.
+985,985,4,2023-04-05,Nice flavors and well-balanced seasoning.
+986,986,5,2024-06-29,Flawless service and delicious food. A+
+987,987,4,2023-04-25,Nice flavors and well-balanced seasoning.
+988,988,3,2025-04-02,"Some dishes were good, others were underwhelming."
+989,989,3,2024-01-01,"Some dishes were good, others were underwhelming."
+990,990,1,2023-10-26,Nothing was fresh. Left the restaurant feeling sick.
+991,991,3,2024-08-14,Average experience. Nothing stood out.
+992,992,2,2023-06-05,Could have been better. Missing key ingredients.
+993,993,2,2025-02-03,Could have been better. Missing key ingredients.
+994,994,3,2024-08-17,"It was okay. Decent flavor, but not memorable."
+995,995,5,2023-04-07,One of the best meals Ive had. Highly recommend.
+996,996,5,2024-02-21,Perfect experience. Great flavors and friendly staff.
+997,997,5,2023-07-29,Absolutely amazing! Every bite was perfect.
+998,998,5,2023-06-13,Exceptional quality and taste. Will return soon.
+999,999,3,2024-03-19,"Acceptable taste, but could be improved."
+1000,1000,2,2024-08-05,Below average. The pasta was dry and sauce too salty.
