@@ -1,6 +1,6 @@
 #  Restaurant Management Database System
 
-This project is a fully designed and implemented relational database system for managing restaurant operations. It simulates real-world workflows including customer ordering, menu management, employee tracking, and analytical reporting.
+This project is a fully designed and implemented relational database system for managing restaurant operations. It simulates real-world workflows including customer ordering, menu management, employee tracking, and analytical reporting
 
 ---
 
@@ -40,7 +40,7 @@ The database consists of **20+ normalized tables**, including:
 - Rating  
 - Measurement  
 
-All entities are connected using **primary and foreign keys**, ensuring data integrity and consistency.
+All entities are connected using **primary and foreign keys**, ensuring data integrity and consistency
 
 ---
 
